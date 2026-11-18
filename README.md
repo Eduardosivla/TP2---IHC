@@ -54,17 +54,17 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 ## 📌 Organização do Repositório 
 
 ```text
-Design-IHC/
+📁 Design-IHC/
 |   
-├── 01-imersao/
+├── 📁 01-imersao/
 |   |
 │   ├── 1-briefing.md
 |   |
 │   ├── 2-matriz-csd.md
 |   |
 │   └── 3-pesquisa-com-usuario.md
-|   |
-├── 02-ideacao/
+|   
+├── 📁 02-ideacao/
 |   |
 │   ├── 1-personas.md
 |   |
@@ -75,9 +75,9 @@ Design-IHC/
 │   ├── 4-htas.md
 |   |
 │   └── 5-molic.md
-|   |
-├── 03-prototipacao/
+|   
+├── 📁 03-prototipacao/
 |   |
 │   └── 1-sketches.md
 |   
-└── README.md
+└── 📄 README.md
