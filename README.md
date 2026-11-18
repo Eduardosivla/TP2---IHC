@@ -18,7 +18,7 @@
 3. [Jean Carlos Silva de Sena] — [@github3](https://github.com/usuario3)
 4. [Kathleen Carvalho] — [@github4](https://github.com/usuario4)
 5. [Endriew Lucas] — [@github5](https://github.com/usuario5)
-6. [Nome Completo 6] *(Revisor(a) final)* — [@github6](https://github.com/usuario6)
+6. [Nome Completo 6] *(Revisor(a) final)* — [@github6](https://github.com/usuario6) 
 
 ---
 
