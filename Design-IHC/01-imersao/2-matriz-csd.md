@@ -61,7 +61,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 
 ---
 
-## 3. Direcionamento para a Pesquisa com Usuários
+## 3. Direcionamento para a Pesquisa com Usuários 🧷
 
 As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em quatro eixos de investigação para guiar o roteiro de entrevistas e questionários na etapa seguinte (`3-pesquisa-com-usuario.md`):
 
