@@ -17,8 +17,8 @@
 2. Carlos Eduardo Costa da Silva — [@github](https://github.com/Eduardosivla)
 3. Jean Carlos Silva de Sena — [@github](https://github.com/usuario3)
 4. Kathleen Carvalho Coimbra — [@github](https://github.com/usuario4)
-5. Endriew Lucas — [@github](https://github.com/usuario5)
-6. Lucas Bina — [@github](https://github.com/usuario6) 
+5. Endriew Silva Lucas — [@github](https://github.com/usuario5)
+6. Lucas Bina Paulo — [@github](https://github.com/usuario6) 
 
 ---
 
