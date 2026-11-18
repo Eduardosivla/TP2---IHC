@@ -13,11 +13,11 @@
 ---
 
 ## Integrantes da Equipe
-1. [Nome Completo 1] — [@github1](https://github.com/usuario1)
-2. [Nome Completo 2] — [@github2](https://github.com/usuario2)
-3. [Nome Completo 3] — [@github3](https://github.com/usuario3)
-4. [Nome Completo 4] — [@github4](https://github.com/usuario4)
-5. [Nome Completo 5] — [@github5](https://github.com/usuario5)
+1. [Malcon Vinicios Tavares Vanlente] — [@github1](https://github.com/usuario1)
+2. [Carlos Eduardo Costa da Silva] — [@github2](https://github.com/usuario2)
+3. [Jean Carlos Silva de Sena] — [@github3](https://github.com/usuario3)
+4. [Kathleen Carvalho] — [@github4](https://github.com/usuario4)
+5. [Endriew Lucas] — [@github5](https://github.com/usuario5)
 6. [Nome Completo 6] *(Revisor(a) final)* — [@github6](https://github.com/usuario6)
 
 ---
