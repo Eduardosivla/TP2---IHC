@@ -40,11 +40,11 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 * [3. Pesquisa Complementar com Usuários](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/01-imersao/3-pesquisa-com-usuario.md)
 
 ### 2. Ideação
-* [1. Personas (Método PATHY)](./02-ideacao/1-personas.md)
-* [2. Metamensagem (Engenharia Semiótica)](./02-ideacao/2-metamensagem.md)
-* [3. Mapa de Objetivos](./02-ideacao/3-mapa-de-objetivos.md)
-* [4. Análise Hierárquica de Tarefas (HTAs)](./02-ideacao/4-htas.md)
-* [5. Diagramas de Interação (MoLIC)](./02-ideacao/5-molic.md)
+* [1. Personas (Método PATHY)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/1-personas.md)
+* [2. Metamensagem (Engenharia Semiótica)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/2-metamensagem.md)
+* [3. Mapa de Objetivos](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/3-mapas-de-objetivos.md)
+* [4. Análise Hierárquica de Tarefas (HTAs)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/4-htas.md)
+* [5. Diagramas de Interação (MoLIC)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/5-molic.md)
 
 ### 3. Prototipação
 * [1. Protótipos de Baixa Fidelidade (Sketches)](./03-prototipacao/1-sketches.md)
