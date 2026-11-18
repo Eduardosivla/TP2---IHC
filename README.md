@@ -13,7 +13,7 @@
 ---
 
 ## Integrantes da Equipe
-1. [Malcon Vinicios Tavares Vanlente] — [@github1](https://github.com/usuario1)
+1. [Malcon Vinicios Tavares Vanlente] — [@github1](https://github.com/MalconTav)
 2. [Carlos Eduardo Costa da Silva] — [@github2](https://github.com/usuario2)
 3. [Jean Carlos Silva de Sena] — [@github3](https://github.com/usuario3)
 4. [Kathleen Carvalho] — [@github4](https://github.com/usuario4)
