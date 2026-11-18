@@ -1,6 +1,6 @@
-# Briefing com o Cliente
+# Briefing com o Cliente 💡
 
-## 1. Informações Gerais da Reunião
+## 1. Informações Gerais da Reunião 🔍
 * **Data:** DD/MM/2026
 * **Local / Meio:** (XXXXX)
 * **Entrevistadores:** (Nomes dos integrantes da equipe que participaram)
@@ -8,7 +8,7 @@
 
 ---
 
-## 2. Roteiro Utilizado
+## 2. Roteiro Utilizado 📝
 *(Evidência obrigatória)*
 
 1. O que motivou a necessidade de criar ou melhorar este produto/sistema?
@@ -22,7 +22,7 @@
 
 ---
 
-## 3. Síntese das Informações Obtidas
+## 3. Síntese das Informações Obtidas 📝
 
 ### Demanda Inicial
 * **Motivação:** [Descreva o que originou a necessidade do aplicativo][cite: 7]
@@ -50,7 +50,7 @@
 
 ---
 
-## 4. Registro da Realização da Reunião
+## 4. Registro da Realização da Reunião 📸
 *(Evidência obrigatória)*
 
 ![Registro da reunião de briefing](../assets/registro-briefing.png)
