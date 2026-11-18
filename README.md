@@ -4,7 +4,7 @@
 
 ---
 
-## Informações Acadêmicas
+## Informações Acadêmicas 📚
 * **Universidade:** Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)
 * **Disciplina:** Interação Humano-Computador (IHC)
 * **Docente:** Prof. Dr. Andrey Rodrigues
@@ -12,7 +12,7 @@
 
 ---
 
-## Integrantes da Equipe
+## Integrantes da Equipe 💡
 1. Malcon Vinicios Tavares Vanlente — [@github](https://github.com/MalconTav)
 2. Carlos Eduardo Costa da Silva — [@github](https://github.com/Eduardosivla)
 3. Jean Carlos Silva de Sena — [@github](https://github.com/usuario3)
@@ -22,7 +22,7 @@
 
 ---
 
-## Breve Apresentação do Sistema
+## Breve Apresentação do Sistema 💻
 Pessoas que utilizam sistemas de Comunicação Aumentativa e Alternativa (CAA) frequentemente enfrentam barreiras ao interagir com atendentes, profissionais de saúde, motoristas e outras pessoas que desconhecem o significado dos pictogramas ou não sabem como responder.
 
 O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outro lado da conversa". Por meio de seleção de contextos cotidianos (como hospitais, restaurantes, escolas e transportes), mensagens multimodais (pictograma + texto claro + reprodução de áudio), modo interlocutor simplificado com respostas rápidas e validação de entendimento, o aplicativo busca reduzir ruídos de interpretação e promover maior autonomia ao usuário de CAA.
@@ -32,7 +32,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 
 ---
 
-## Índice Navegável das Etapas
+## Índice Navegável das Etapas 🌎
 
 ### 1. Imersão
 * [1. Briefing com o Cliente](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/01-imersao/1-briefing.md)
@@ -51,7 +51,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 
 ---
 
-## Organização do Repositório
+## Organização do Repositório 📌
 
 ```text
 Design-IHC/
