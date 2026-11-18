@@ -47,7 +47,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 * [5. Diagramas de Interação (MoLIC)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/02-ideacao/5-molic.md)
 
 ### 3. Prototipação
-* [1. Protótipos de Baixa Fidelidade (Sketches)](./03-prototipacao/1-sketches.md)
+* [1. Protótipos de Baixa Fidelidade (Sketches)](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/03-prototipacao/1-sketches.md)
 
 ---
 
