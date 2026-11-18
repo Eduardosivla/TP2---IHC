@@ -35,7 +35,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 ## Índice Navegável das Etapas
 
 ### 1. Imersão
-* [1. Briefing com o Cliente](./01-imersao/1-briefing.md)
+* [1. Briefing com o Cliente](https://github.com/Eduardosivla/TP2-3---IHC/blob/main/Design-IHC/01-imersao/1-briefing.md)
 * [2. Matriz CSD](./01-imersao/2-matriz-csd.md)
 * [3. Pesquisa Complementar com Usuários](./01-imersao/3-pesquisa-com-usuario.md)
 
