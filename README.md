@@ -22,7 +22,7 @@
 
 ---
 
-## Breve Apresentação do Sistema 💻
+## Breve Apresentação do Sistema🧏🏻
 Pessoas que utilizam sistemas de Comunicação Aumentativa e Alternativa (CAA) frequentemente enfrentam barreiras ao interagir com atendentes, profissionais de saúde, motoristas e outras pessoas que desconhecem o significado dos pictogramas ou não sabem como responder.
 
 O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outro lado da conversa". Por meio de seleção de contextos cotidianos (como hospitais, restaurantes, escolas e transportes), mensagens multimodais (pictograma + texto claro + reprodução de áudio), modo interlocutor simplificado com respostas rápidas e validação de entendimento, o aplicativo busca reduzir ruídos de interpretação e promover maior autonomia ao usuário de CAA.
