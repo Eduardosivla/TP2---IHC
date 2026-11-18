@@ -56,15 +56,27 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 ```text
 Design-IHC/
 ├── 01-imersao/
+|   |
 │   ├── 1-briefing.md
+|   |
 │   ├── 2-matriz-csd.md
+|   |
 │   └── 3-pesquisa-com-usuario.md
+|   |
 ├── 02-ideacao/
+|   |
 │   ├── 1-personas.md
+|   |
 │   ├── 2-metamensagem.md
+|   |
 │   ├── 3-mapa-de-objetivos.md
+|   |
 │   ├── 4-htas.md
+|   |
 │   └── 5-molic.md
+|   |
 ├── 03-prototipacao/
+|   |
 │   └── 1-sketches.md
+|   |
 └── README.md
