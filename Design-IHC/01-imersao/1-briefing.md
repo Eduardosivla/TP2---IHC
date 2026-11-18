@@ -25,22 +25,22 @@
 ## 3. Síntese das Informações Obtidas 📝
 
 ### Demanda Inicial
-* **Motivação:** [Descreva o que originou a necessidade do aplicativo][cite: 7]
+* **Motivação:** [Descrever o que originou a necessidade do aplicativo][cite: 7]
 
 ### Público-Alvo (Para quem)
 * **Envolvidos e afetados:** [Quem são os usuários finais, gestores ou beneficiários impactados][cite: 7]
 
 ### Problemas Identificados
-* [Liste as dificuldades e gargalos relatados no cenário atual][cite: 7]
+* [Listar as dificuldades e gargalos relatados no cenário atual][cite: 7]
 
 ### Prioridades do Cliente
-* [Indique quais problemas o cliente considera mais críticos para serem resolvidos primeiro][cite: 7]
+* [Indicar quais problemas o cliente considera mais críticos para serem resolvidos primeiro][cite: 7]
 
 ### Fontes de Informação
-* [Cite documentos, editais, regulamentos, manuais ou sistemas mencionados pelo cliente][cite: 7]
+* [Citar documentos, editais, regulamentos, manuais ou sistemas mencionados pelo cliente][cite: 7]
 
 ### Padrão Prévio
-* [Descreva se já existe algum aplicativo, fluxo manual, formulário ou identidade visual em uso][cite: 7]
+* [Descrever se já existe algum aplicativo, fluxo manual, formulário ou identidade visual em uso][cite: 7]
 
 ### Contato Técnico
 * **Ponto focal:** [Cargo/setor ou forma de contato com quem fornecerá apoio técnico/informações adicionais][cite: 7]
