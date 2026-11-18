@@ -1,8 +1,8 @@
-# Matriz CSD (Certezas, Suposições e Dúvidas)
+# Matriz CSD (Certezas, Suposições e Dúvidas) 💡
 
 Após a realização do briefing com o representante do cliente, a equipe organizou as informações coletadas na Matriz CSD abaixo para distinguir os fatos já comprovados das hipóteses e lacunas que precisam ser investigadas com os usuários finais.
 
-## 1. Visão Geral da Matriz
+## 1. Visão Geral da Matriz 📝
 
 | Certezas (C) | Suposições (S) | Dúvidas (D) |
 | :--- | :--- | :--- |
@@ -21,9 +21,9 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 
 ---
 
-## 2. Detalhamento e Justificativa dos Pontos
+## 2. Detalhamento e Justificativa dos Pontos 📌
 
-### Certezas
+### Certezas 💡
 * **C1 (Objetivo central do produto):** Confirmado no briefing como a motivação principal do projeto — preencher a lacuna comunicativa entre pessoas que utilizam Comunicação Aumentativa e Alternativa (CAA) e o público geral.
 * **C2 (Diferencial e foco no interlocutor):** Estabelecido pelo cliente como o recorte estratégico da solução, direcionando o design não apenas para quem emite a mensagem, mas para tornar a leitura e a resposta imediatas para quem não domina CAA.
 * **C3 (Atores e público-alvo):** Definido no levantamento inicial de envolvidos, abrangendo tanto os emissores (usuários de CAA) quanto sua rede de apoio (familiares, cuidadores, professores) e interlocutores externos (atendentes, profissionais de saúde, motoristas).
@@ -34,7 +34,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 * **C8 (Restrição de integração):** Confirmado como restrição técnica inicial — o MVP operará de forma independente, sem acoplamento com APIs ou plataformas externas nesta primeira versão.
 * **C9 (Escopo de dados):** Delimitado no briefing quanto às informações manipuladas durante o fluxo de uso (mensagens escolhidas, retornos do interlocutor, status de confirmação e contextos preferidos).
 
-### Suposições
+### Suposições 💭
 * **S1 (Uso predominante de smartphones/tablets):** A equipe parte da premissa de que dispositivos móveis pessoais já fazem parte da rotina de comunicação dos usuários de CAA e facilitam a abordagem presencial com interlocutores. Precisa ser confirmado com o público-alvo.
 * **S2 (Compreensão intuitiva sem treinamento):** Supõe-se que a combinação multimodal (pictograma + texto claro + áudio) seja suficiente para que um atendente ou profissional entenda a intenção do usuário instantaneamente. Precisa ser testado na prática.
 * **S3 (Suficiência das mensagens predefinidas):** Acredita-se que organizar mensagens prontas por ambiente (ex.: hospital, restaurante) cubra a maior parte das demandas comunicativas urgentes sem exigir construção complexa de frases.
@@ -46,7 +46,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 * **S9 (Uso sob pressão e restrição de tempo):** Supõe-se que muitas interações ocorrerão em filas, balcões ou triagens médicas, tornando o tempo de resposta e a baixa carga cognitiva fatores críticos de sucesso.
 * **S10 (Caráter complementar da ferramenta):** Acredita-se que os usuários já possuam seus próprios sistemas/apps de CAA para comunicação profunda e usarão este aplicativo especificamente como ponte rápida com estranhos.
 
-### Dúvidas
+### Dúvidas 🤔
 * **D1 (Obrigatoriedade e escopo do login):** É preciso investigar se exigir autenticação cria uma barreira de entrada em situações urgentes e quais dados de perfil realmente agregam valor à adaptação da interface (conecta-se diretamente com `S7`).
 * **D2 (Disponibilidade offline):** Importante para definir a arquitetura de armazenamento local de pictogramas e áudios, já que hospitais, transportes e estabelecimentos podem ter sinal instável.
 * **D3 (Padrões de pictogramas familiares):** Essencial para escolher bibliotecas visuais (como ARASAAC, PCS, etc.) que o usuário já reconheça, evitando curva de aprendizado desnecessária.
