@@ -55,6 +55,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 
 ```text
 Design-IHC/
+|   
 ├── 01-imersao/
 |   |
 │   ├── 1-briefing.md
@@ -78,5 +79,5 @@ Design-IHC/
 ├── 03-prototipacao/
 |   |
 │   └── 1-sketches.md
-|   |
+|   
 └── README.md
