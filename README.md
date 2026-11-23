@@ -1,8 +1,9 @@
 <div align="center">
   <h1>[Nome do Aplicativo] — Design de IHC (TP2) </h1>
   <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
-  <p></p>
+  <p><img width="836" height="534" alt="image" src="https://github.com/user-attachments/assets/0e246973-0b1d-4904-a0ff-84ea201d5088" /></p>
 </div>
+
 
 ---
 
