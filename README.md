@@ -5,10 +5,10 @@
  </p>
 </div>
 
-
 ---
 
 ## 📚 Informações Acadêmicas 
+
 * **Universidade:** Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)
 * **Disciplina:** Interação Humano-Computador (IHC)
 * **Docente:** Prof. Dr. Andrey Rodrigues
@@ -17,6 +17,7 @@
 ---
 
 ## 👥 Integrantes da Equipe
+
 1. Malcon Vinicios Tavares Vanlente
 2. Carlos Eduardo Costa da Silva 
 3. Jean Carlos Silva de Sena 
@@ -38,19 +39,28 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 ## 🌎 Índice Navegável das Etapas 
 
+---
+
 ### 1. Imersão
+
 - [1. Briefing com o Cliente](Design-IHC/01-imersao/1-briefing.md)
 - [2. Matriz CSD](Design-IHC/01-imersao/2-matriz-csd.md)
 - [3. Pesquisa Complementar com Usuários](Design-IHC/01-imersao/3-pesquisa-com-usuario.md)
 
+---
+
 ### 2. Ideação
+
 - [1. Personas (Método PATHY)](Design-IHC/02-ideacao/1-personas.md)
 - [2. Metamensagem (Engenharia Semiótica)](Design-IHC/02-ideacao/2-metamensagem.md)
 - [3. Mapa de Objetivos](Design-IHC/02-ideacao/3-mapas-de-objetivos.md)
 - [4. Análise Hierárquica de Tarefas (HTAs)](Design-IHC/02-ideacao/4-htas.md)
 - [5. Diagramas de Interação (MoLIC)](Design-IHC/02-ideacao/5-molic.md)
 
+---
+
 ### 3. Prototipação
+
 - [1. Protótipos de Baixa Fidelidade (Sketches)](Design-IHC/03-prototipacao/1-sketches.md)
 
 ---
@@ -88,8 +98,6 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 ```
 
-
-
 ---
 
 ## 📋 Resumo das Etapas e Atividades Realizadas 
@@ -101,6 +109,7 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas 
+
 * **Documentação e Controle de Versão:** Git, GitHub e Markdown
 * **Coleta de Dados e Pesquisa:** Google Forms e Google Meet 
 * **Criação de Personas e Quadros Visuais:** Boardmix , Canva e Miro
@@ -110,11 +119,12 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 ---
 
 ## 📌 Observações Gerais 
+
 * Todos os registros fotográficos, relatos de entrevista e evidências de pesquisa foram devidamente anonimizados para preservar a identidade e a privacidade dos participantes, em especial por envolver contextos de saúde e menores de idade.
 * A ata detalhada de participação individual da equipe, contendo o cronograma e as entregas de cada integrante, foi enviada separadamente em formato PDF diretamente pelo Google Classroom, conforme exigido no enunciado da disciplina.
 
 ---
 
 ## 🤖 Declaração de Uso de Inteligência Artificial 
-A equipe utilizou ferramentas de Inteligência Artificial, como **Gemini** e **ChatGPT**, como apoio à organização estrutural dos arquivos Markdown, revisão gramatical e padronização dos textos da documentação conforme as diretrizes da disciplina. As ferramentas foram utilizadas estritamente como suporte técnico e editorial; todo o levantamento de dados reais, entrevistas, modelagens de tarefas e interação (CSD, PATHY, Mapa de Objetivos, HTAs e MoLIC) e decisões de design dos protótipos foram elaborados, revisados e validados pelos integrantes da equipe.
 
+A equipe utilizou ferramentas de Inteligência Artificial, como **Gemini** e **ChatGPT**, como apoio à organização estrutural dos arquivos Markdown, revisão gramatical e padronização dos textos da documentação conforme as diretrizes da disciplina. As ferramentas foram utilizadas estritamente como suporte técnico e editorial; todo o levantamento de dados reais, entrevistas, modelagens de tarefas e interação (CSD, PATHY, Mapa de Objetivos, HTAs e MoLIC) e decisões de design dos protótipos foram elaborados, revisados e validados pelos integrantes da equipe.
