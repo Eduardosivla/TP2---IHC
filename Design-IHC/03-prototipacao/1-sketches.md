@@ -1,4 +1,3 @@
-
 # Protótipos de Baixa Fidelidade (Sketches) ✏️
 
 Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação, a equipe desenvolveu os esboços de telas em baixa fidelidade para representar o fluxo inicial do sistema. Além das telas individuais que compõem a jornada do utilizador, foram elaboradas **duas versões alternativas de fluxo e layout (Versão A e Versão B)** para comparar decisões de navegação, acessibilidade e comunicabilidade.
@@ -11,7 +10,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 *(Apresentação inicial dos recursos de CAA, pareamento por QR Code, tradução por IA e modo offline)*
 
-![Sketches - Onboarding](../assets/sketch-onboarding.png)
+<img width="1050" height="1180" alt="image" src="https://github.com/user-attachments/assets/cb7e7cf0-e6df-4b8a-9e9c-9596970181b4" />
+
 
 * **Descrição e Correspondência com o Modelo:** Apresenta ao novo utilizador os pilares do sistema em cinco cartões sequenciais (`Bem-vindo`, `Existem várias formas de falar`, `Dois aparelhos, uma conexão`, `Mais compreensão, menos barreiras` e `Funciona mesmo sem internet`), reduzindo o receio inicial antes do acesso à conta.
 * **Análise de Design:**
