@@ -99,9 +99,9 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 ## 🛠️ Tecnologias e Ferramentas Utilizadas 
 * **Documentação e Controle de Versão:** Git, GitHub e Markdown
 * **Coleta de Dados e Pesquisa:** Google Forms e Google Meet 
-* **Criação de Personas e Quadros Visuais:** Boardmix / Canva
+* **Criação de Personas e Quadros Visuais:** Boardmix , Canva e Miro
 * **Modelagem de Diagramas (Mapa de Objetivos, HTAs e MoLIC):** Draw.io
-* **Prototipação de Baixa Fidelidade (Sketches):** Figma / Draw.io 
+* **Prototipação de Baixa Fidelidade (Sketches):** Figma e Draw.io 
 
 ---
 
