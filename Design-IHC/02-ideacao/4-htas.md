@@ -8,11 +8,11 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 ## 1. HTA 01 — Autenticar e Acessar o Sistema 🔐
 
 
-| Recorte do Mapa de Objetivos | 
+| Recorte do Mapa de Objetivos: | 
 | :---: | 
  <img width="4120" height="2396" alt="Mapa de Objetivos drawio_page-0001 (1)" src="https://github.com/user-attachments/assets/7810b853-60a3-4bd9-a3a6-cd8fe2b3c847" />
 
-| Diagrama HTA 01 |
+| Diagrama HTA 01: |
 | :---: |
  
 <img width="9426" height="2531" alt="HTA 1 drawio-3_page-0001" src="https://github.com/user-attachments/assets/c0c05e8d-85b0-4727-963c-3d06f4921abc" /> 
@@ -27,12 +27,12 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 *(Correspondente ao bloco **Navegação e Contextos (Home CAA)** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos |
+| Recorte do Mapa de Objetivos: |
 | :---: |
 
 <img width="3543" height="1654" alt="Mapa de Objetivos drawio_page-1 (1)" src="https://github.com/user-attachments/assets/a715053d-df10-40f1-b961-0e21418848cc" />
 
-| Diagrama HTA 02 |
+| Diagrama HTA 02: |
 | :---: |
 
 <img width="9925" height="4653" alt="image" src="https://github.com/user-attachments/assets/8b73d43f-0794-4abc-aa50-fe5bd34898f4" />
@@ -47,13 +47,17 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 *(Correspondente ao bloco **Pareamento de Sessão (Modo Online / Duas Telas)** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos |
+| Recorte do Mapa de Objetivos: |
 | :---: |
 
 <img width="3431" height="1083" alt="image" src="https://github.com/user-attachments/assets/25cd1051-d2df-427e-9f0d-fb2465415304" />
 
-| Diagrama HTA 03 |
+| Diagrama HTA 03: |
 | :---: |
+
+<img width="9856" height="7640" alt="HTA3 drawio-1_page-0001" src="https://github.com/user-attachments/assets/fff81c81-d57e-46f1-a32b-1e5dbefa7b85" />
+
+
 
 * **Propósito:** Definir como o Interlocutor estabelece a conexão de diálogo com o Usuário CAA, oferecendo tanto o pareamento sincronizado entre dois dispositivos quanto uma alternativa imediata de contingência offline.
 * **Descrição das Tarefas e Decisões de Design:** Ao entrar no perfil de Interlocutor, o usuário escolhe entre duas modalidades exclusivas (**Plano 0:** `1 / 2`). No modo online padrão (`1`), o sistema gera e exibe automaticamente na tela um QR Code temporário em destaque (`1.1`), aguardando apenas a leitura pela câmera do dispositivo do Usuário CAA para abrir o chat pareado (`1.2`). Caso não haja conexão com a internet ou o interlocutor não disponha de um segundo aparelho, ele pode acionar o modo offline (`2.1`), abrindo imediatamente a interface compartilhada de respostas rápidas e texto (`2.2`). A geração automática do QR Code sem cliques intermediários foi projetada para eliminar atritos e constrangimentos em atendimentos reais, enquanto o botão de contingência visível na mesma tela assegura que a comunicação nunca seja interrompida.
