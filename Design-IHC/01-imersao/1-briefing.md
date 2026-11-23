@@ -95,4 +95,5 @@
 
 ## 4. Registro da Realização da Reunião 📸
 
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/d9b7c6de-b853-43e4-855b-5667cf995fb4" />
+<img width="828" height="556" alt="image" src="https://github.com/user-attachments/assets/a8bc6453-27b3-4d41-80c4-840323a09a77" />
+
