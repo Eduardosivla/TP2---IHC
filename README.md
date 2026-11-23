@@ -1,6 +1,8 @@
-# [Nome do Aplicativo] — Design de IHC (TP2)
-
-> Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.
+<div align="center">
+  <h1>[Nome do Aplicativo] — Design de IHC (TP2) </h1>
+  <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
+  <p></p>
+</div>
 
 ---
 
