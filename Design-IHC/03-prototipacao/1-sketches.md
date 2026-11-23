@@ -10,7 +10,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 *(Apresentação inicial dos recursos de CAA, pareamento por QR Code, tradução por IA e modo offline)*
 
-<img width="1050" height="1180" alt="image" src="https://github.com/user-attachments/assets/cb7e7cf0-e6df-4b8a-9e9c-9596970181b4" />
+<img width="1150" height="1357" alt="image" src="https://github.com/user-attachments/assets/d7efeca8-dde9-4ae9-926b-c69db8db9a00" />
+
 
 
 * **Descrição e Correspondência com o Modelo:** Apresenta ao novo utilizador os pilares do sistema em cinco cartões sequenciais (`Bem-vindo`, `Existem várias formas de falar`, `Dois aparelhos, uma conexão`, `Mais compreensão, menos barreiras` e `Funciona mesmo sem internet`), reduzindo o receio inicial antes do acesso à conta.
@@ -25,7 +26,7 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 *(Alinhamento: **HTAs 01, 02 e 03** e **Fluxos 1, 2 e 3 do MoLIC**)*
 
-![Sketches - Telas Principais](../assets/sketch-telas-principais.png)
+<img width="1050" height="1180" alt="image" src="https://github.com/user-attachments/assets/cb7e7cf0-e6df-4b8a-9e9c-9596970181b4" />
 
 * **Tela 01 — Acesso (`Bem-vindo`):** Corresponde à cena `Acessar conta` do MoLIC, oferecendo login por e-mail e palavra-passe, recuperação (`Esqueci minha senha`), acesso social (`Continuar com Google` / `Continuar com Apple`) e atalho para criação de conta.
 * **Tela 02 — Cadastro (`Crie sua conta`):** Corresponde à cena `Criar conta` do MoLIC, com campos claros e lista visual de requisitos mínimos da palavra-passe (8 caracteres, letra maiúscula e número) para prevenir erros de preenchimento.
