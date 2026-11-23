@@ -6,7 +6,8 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 ## 1. Visão Geral do Diagrama MoLIC Completo 🌐
 
-![Diagrama MoLIC Completo](../assets/molic-completo.png)
+<img width="6913" height="2779" alt="image" src="https://github.com/user-attachments/assets/c624ee09-82af-4c5f-9297-38cbb34277d2" />
+
 
 ---
 
@@ -18,7 +19,9 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ### 2.1. Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
 
-![MoLIC - HTA 01](../assets/molic-hta-01.png)
+<img width="3784" height="6944" alt="image" src="https://github.com/user-attachments/assets/82a5f3fc-2bc7-4ce8-ac1c-7cda5d233d38" />
+
+
 
 * **Descrição Geral:** Modela a entrada no aplicativo desde o ponto de abertura até à definição do papel do utilizador na sessão (**Usuário CAA** ou **Interlocutor**), contemplando o cadastro com validação de e-mail, o acesso via e-mail ou conta Google e a recuperação de palavra-passe.
 * **Cenas e Transições:**
@@ -30,7 +33,8 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ### 2.2. Fluxo 2 — Navegação e Seleção de Contextos (HTA 02) 🧭
 
-![MoLIC - HTA 02](../assets/molic-hta-02.png)
+<img width="4044" height="7013" alt="image" src="https://github.com/user-attachments/assets/f859e32d-c3fb-4fc7-9202-d370669a53d3" />
+
 
 * **Descrição Geral:** Representa a jornada do **Usuário CAA** na tela inicial para escolher o ambiente comunicativo e o tipo de vocabulário que deseja utilizar.
 * **Cenas e Transições:**
@@ -42,7 +46,8 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ### 2.3. Fluxo 3 — Pareamento de Sessão e Contingência Offline (HTA 03) 📲
 
-![MoLIC - HTA 03](../assets/molic-hta-03.png)
+<img width="4964" height="5173" alt="image" src="https://github.com/user-attachments/assets/5f38de66-d256-441d-b571-c51776842fbc" />
+
 
 * **Descrição Geral:** Detalha o estabelecimento da ligação entre o **Interlocutor** e o **Usuário CAA** no modo online, bem como a transição alternativa para o modo offline caso o tempo de espera expire ou não haja conexão[cite: 46].
 * **Cenas e Transições:**
