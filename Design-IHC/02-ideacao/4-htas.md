@@ -47,9 +47,13 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 *(Correspondente ao bloco **Pareamento de Sessão (Modo Online / Duas Telas)** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos | Diagrama HTA 03 |
-| :---: | :---: |
-| ![Recorte Mapa - Pareamento](../assets/recorte-mapa-03.png) | ![HTA 03 - Pareamento de Sessão](../assets/hta-03.png) |
+| Recorte do Mapa de Objetivos |
+| :---: |
+
+<img width="3431" height="1083" alt="image" src="https://github.com/user-attachments/assets/25cd1051-d2df-427e-9f0d-fb2465415304" />
+
+| Diagrama HTA 03 |
+| :---: |
 
 * **Propósito:** Definir como o Interlocutor estabelece a conexão de diálogo com o Usuário CAA, oferecendo tanto o pareamento sincronizado entre dois dispositivos quanto uma alternativa imediata de contingência offline.
 * **Descrição das Tarefas e Decisões de Design:** Ao entrar no perfil de Interlocutor, o usuário escolhe entre duas modalidades exclusivas (**Plano 0:** `1 / 2`). No modo online padrão (`1`), o sistema gera e exibe automaticamente na tela um QR Code temporário em destaque (`1.1`), aguardando apenas a leitura pela câmera do dispositivo do Usuário CAA para abrir o chat pareado (`1.2`). Caso não haja conexão com a internet ou o interlocutor não disponha de um segundo aparelho, ele pode acionar o modo offline (`2.1`), abrindo imediatamente a interface compartilhada de respostas rápidas e texto (`2.2`). A geração automática do QR Code sem cliques intermediários foi projetada para eliminar atritos e constrangimentos em atendimentos reais, enquanto o botão de contingência visível na mesma tela assegura que a comunicação nunca seja interrompida.
