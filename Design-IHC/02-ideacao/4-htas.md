@@ -7,11 +7,16 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 ## 1. HTA 01 — Autenticar e Acessar o Sistema 🔐
 
-*(Correspondente ao bloco **Gestão de Acesso e Autenticação** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos | Diagrama HTA 01 |
-| :---: | :---: |
-| ![Recorte Mapa - Autenticação](../assets/recorte-mapa-01.png) | ![HTA 01 - Autenticar e Acessar o Sistema](../assets/hta-01.png) |
+| Recorte do Mapa de Objetivos | 
+| :---: | 
+ <img width="4120" height="2396" alt="Mapa de Objetivos drawio_page-0001 (1)" src="https://github.com/user-attachments/assets/7810b853-60a3-4bd9-a3a6-cd8fe2b3c847" />
+
+| Diagrama HTA 01 |
+| :---: |
+ 
+<img width="9426" height="2531" alt="HTA 1 drawio-3_page-0001" src="https://github.com/user-attachments/assets/c0c05e8d-85b0-4727-963c-3d06f4921abc" /> 
+
 
 * **Propósito:** Modelar o fluxo inicial de entrada na aplicação, garantindo um processo de autenticação seguro, acessível e flexível para ambos os perfis de usuário antes do início da comunicação.
 * **Descrição das Tarefas e Decisões de Design:** A tarefa principal inicia com a abertura do aplicativo (`1`), seguida pela escolha condicional (**Plano 0:** `1 > (2 / 3) > 5`) entre realizar um novo cadastro (`2`) ou acessar uma conta existente (`3`). No fluxo de cadastro, o usuário insere seus dados básicos (`2.1` a `2.3`) e realiza a validação obrigatória por link enviado ao e-mail (`2.4.1` e `2.4.2`) antes de concluir o registro (`2.5`). Para usuários já cadastrados, o sistema oferece tanto o login tradicional por e-mail e senha (`3.1` e `3.2`) quanto a autenticação social via Google ou Apple (`3.3`), decisão tomada para reduzir a carga cognitiva e o esforço de digitação. Caso o usuário esqueça sua credencial, o fluxo alternativo de recuperação (`4`) permite redefinir a senha via e-mail (`4.1` a `4.4`) e retornar ao login. Por fim, o usuário define seu papel na sessão (`5`), escolhendo entre o perfil de **Usuário CAA** (`5.1`) ou **Interlocutor** (`5.2`), o que direciona a interface para as funcionalidades específicas de cada ator. *(Nota: O sub-objetivo de alteração de senha previsto no Mapa de Objetivos ocorre após o login, sendo contemplado na gestão de conta)*.
@@ -22,9 +27,16 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 *(Correspondente ao bloco **Navegação e Contextos (Home CAA)** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos | Diagrama HTA 02 |
-| :---: | :---: |
-| ![Recorte Mapa - Navegação e Contextos](../assets/recorte-mapa-02.png) | ![HTA 02 - Tela Principal Usuário CAA](../assets/hta-02.png) |
+| Recorte do Mapa de Objetivos |
+| :---: |
+
+<img width="3543" height="1654" alt="Mapa de Objetivos drawio_page-1 (1)" src="https://github.com/user-attachments/assets/a715053d-df10-40f1-b961-0e21418848cc" />
+
+| Diagrama HTA 02 |
+| :---: |
+
+<img width="9925" height="4653" alt="image" src="https://github.com/user-attachments/assets/8b73d43f-0794-4abc-aa50-fe5bd34898f4" />
+
 
 * **Propósito:** Estruturar a navegação inicial do Usuário CAA após a autenticação, permitindo que ele alcance rapidamente o conjunto de pictogramas mais adequado à sua situação comunicativa atual.
 * **Descrição das Tarefas e Decisões de Design:** A partir da tela inicial, o Usuário CAA dispõe de quatro caminhos independentes (**Plano 0:** `1 / 2 / 3 / 4`) adaptados a diferentes cenários de uso. Ele pode selecionar manualmente um ambiente na grade de contextos ou filtrar pela barra de pesquisa (`1.1` a `1.3.2`), aceitar uma sugestão automática exibida por geolocalização (`2.1` e `2.2`), acessar diretamente o vocabulário geral ou suas rotinas favoritas salvas (`3.1` e `3.2`), ou navegar até as configurações do perfil (`4`). A decisão de combinar sugestões baseadas em GPS com atalhos de rotinas favoritas visa minimizar o número de toques necessários e reduzir a fadiga motora, permitindo que a comunicação seja iniciada com agilidade em ambientes dinâmicos.
