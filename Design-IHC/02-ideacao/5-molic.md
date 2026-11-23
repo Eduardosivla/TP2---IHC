@@ -16,7 +16,8 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 ### Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
 
-<img width="3784" height="6944" alt="image" src="https://github.com/user-attachments/assets/82a5f3fc-2bc7-4ce8-ac1c-7cda5d233d38" />
+<img width="790" height="1632" alt="image" src="https://github.com/user-attachments/assets/c74ad890-f08b-4a5f-9ce8-2db3968c1418" />
+
 
 * **Descrição Geral:** Modela a entrada no aplicativo desde o ponto de abertura até à definição do papel do utilizador na sessão (**Usuário CAA** ou **Interlocutor**), contemplando o cadastro com validação de e-mail, o acesso via e-mail ou conta Google e a recuperação de palavra-passe.
 * **Cenas e Transições:**
@@ -77,7 +78,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 ### Fluxo 6 — Gerenciamento de Perfil, Acessibilidade e Saída (HTA 06) ⚙️
 
-<img width="4964" height="3298" alt="image" src="https://github.com/user-attachments/assets/3e8842db-079a-4dbe-96dc-80656ea5f372" />
+<img width="812" height="1002" alt="image" src="https://github.com/user-attachments/assets/3e3baa42-0e4e-47c7-929e-29e0dcc7ee81" />
 
 
 * **Descrição Geral:** Agrupa as ações de consulta e edição de conta, personalização de acessibilidade e encerramento de sessão.
@@ -86,3 +87,4 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
   * **Cena `Atualizar dados`, `Alterar os campos` e `Alterar email`:** Permite editar nome ou e-mail; caso o e-mail seja modificado (`u: alterar email`), aciona a cena `Alterar email` para definição, confirmação e validação via link no Gmail.
   * **Cena `Acessibilidade do sistema` $\rightarrow$ Cena `Definições de acessibilidade`:** Permite configurar tamanho de fonte/pictogramas, contraste, velocidade e tom da voz TTS (`definiu as configurações`).
   * **Cena `Sair do sistema` $\rightarrow$ Ponto de Encerramento:** Ao tocar em *"sair/deslogar"*, finaliza a sessão e encerra o diagrama.
+
