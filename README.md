@@ -81,3 +81,36 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 │   └── 1-sketches.md
 |   
 └── 📄 README.md
+
+```
+
+
+
+---
+
+## Resumo das Etapas e Atividades Realizadas 📋
+
+* **01. Imersão (Briefing, Matriz CSD e Pesquisa com Usuários):** Levantamento da demanda inicial por meio de entrevista semiestruturada com representante do cliente, sistematização das Certezas, Suposições e Dúvidas na Matriz CSD e aplicação de pesquisa complementar junto a potenciais usuários para investigar hábitos de uso, barreiras comunicativas e necessidades de acessibilidade.
+* **02. Ideação (Personas, Metamensagem, Mapa de Objetivos, HTAs e MoLIC):** Elaboração de três personas pela técnica PATHY contemplando usuários com necessidades de acessibilidade (**José Felipe** e **Beatriz Almeida**) e interlocutora leiga (**Fernanda Lima**); definição da metamensagem sob a ótica da Engenharia Semiótica; estruturação visual dos objetivos no Mapa de Objetivos; modelagem hierárquica de 06 tarefas principais nos HTAs; e representação conversacional completa da interação via diagramas MoLIC.
+* **03. Prototipação (Protótipos de Baixa Fidelidade — Sketches):** Criação de esboços de baixa fidelidade para os fluxos essenciais do sistema (Onboarding, Autenticação, Escolha de Perfil, Home CAA e Pareamento via QR Code), incluindo a avaliação comparativa entre duas versões alternativas (**Versão A** e **Versão B**) para validar usabilidade, comunicabilidade e experiência do usuário (UX).
+
+---
+
+## Tecnologias e Ferramentas Utilizadas 🛠️
+* **Documentação e Controle de Versão:** Git, GitHub e Markdown
+* **Coleta de Dados e Pesquisa:** Google Forms e Google Meet 
+* **Criação de Personas e Quadros Visuais:** Boardmix / Canva
+* **Modelagem de Diagramas (Mapa de Objetivos, HTAs e MoLIC):** Draw.io
+* **Prototipação de Baixa Fidelidade (Sketches):** Figma / Draw.io 
+
+---
+
+## Observações Gerais 📌
+* Todos os registros fotográficos, relatos de entrevista e evidências de pesquisa foram devidamente anonimizados para preservar a identidade e a privacidade dos participantes, em especial por envolver contextos de saúde e menores de idade.
+* A ata detalhada de participação individual da equipe, contendo o cronograma e as entregas de cada integrante, foi enviada separadamente em formato PDF diretamente pelo Google Classroom, conforme exigido no enunciado da disciplina.
+
+---
+
+## Declaração de Uso de Inteligência Artificial 🤖
+A equipe utilizou ferramentas de Inteligência Artificial, como **Gemini** e **ChatGPT**, como apoio à organização estrutural dos arquivos Markdown, revisão gramatical e padronização dos textos da documentação conforme as diretrizes da disciplina. As ferramentas foram utilizadas estritamente como suporte técnico e editorial; todo o levantamento de dados reais, entrevistas, modelagens de tarefas e interação (CSD, PATHY, Mapa de Objetivos, HTAs e MoLIC) e decisões de design dos protótipos foram elaborados, revisados e validados pelos integrantes da equipe.
+
