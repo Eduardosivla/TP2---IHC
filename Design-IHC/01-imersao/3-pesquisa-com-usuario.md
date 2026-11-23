@@ -3,7 +3,7 @@
 
 ## 1. Metodologia e Perfil dos Participantes 🔍
 - **Técnica utilizada:** Formulário online via Google Forms
-- **Período de aplicação:** DD/MM/2026 a DD/MM/2026
+- **Período de aplicação:** 18/11/2026 a 19/11/2026
 - **Quantidade de participantes:** 2 entrevistados 
 - **Critério de seleção:** Pessoas que vivenciam o problema descrito no briefing, incluindo pelo menos um usuário com necessidades de acessibilidade
 
