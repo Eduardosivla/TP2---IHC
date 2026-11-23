@@ -46,8 +46,8 @@
 ## 4. Registro da Realização da Pesquisa 📸
 *(Evidência obrigatória: insira prints das chamadas de entrevista, fotos da aplicação presencial ou gráficos de resumo do formulário[cite: 11]. **Atenção:** borre rostos, e-mails e nomes completos para preservar a identidade dos participantes[cite: 11]).*
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ea77eb3c-9176-45c2-a982-06b33e35e042" />
+<img width="660" height="980" alt="image" src="https://github.com/user-attachments/assets/ea77eb3c-9176-45c2-a982-06b33e35e042" /> 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/22eaf512-f2cb-45be-b84b-a766a3b9bfbf" />
+<img width="660" height="980" alt="image" src="https://github.com/user-attachments/assets/22eaf512-f2cb-45be-b84b-a766a3b9bfbf" />
 
 
