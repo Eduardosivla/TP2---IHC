@@ -1,9 +1,9 @@
 # Briefing com o Cliente 💡
 
 ## 1. Informações Gerais da Reunião 🔍
-- **Data:** DD/MM/2026 *(preencher com a data da entrevista)*
-- **Local / Meio:** *(preencher: ex. Presencial / Google Meet)*
-- **Entrevistadores:** *(preencher com os nomes dos integrantes da equipe que participaram)*
+- **Data:** 12/11/2026 
+- **Local / Meio:**  Presencial
+- **Entrevistadores:** Endriew Lucas
 - **Representante do Cliente:** Mãe de Talisson Otto (criança de 8 anos diagnosticada com Transtorno do Espectro Autista — TEA, nível 2 de suporte).
 
 ---
@@ -96,4 +96,4 @@
 
 ## 4. Registro da Realização da Reunião 📸
 
-<img width="1200" height="891" alt="image" src="https://github.com/user-attachments/assets/d9b7c6de-b853-43e4-855b-5667cf995fb4" />
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/d9b7c6de-b853-43e4-855b-5667cf995fb4" />
