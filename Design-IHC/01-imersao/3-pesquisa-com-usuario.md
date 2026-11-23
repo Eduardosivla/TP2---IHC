@@ -2,7 +2,7 @@
 # Pesquisa Complementar com Usuários 👥
 
 ## 1. Metodologia e Perfil dos Participantes 🔍
-- **Técnica utilizada:** Formulário online via Google Forms [https://docs.google.com/forms/d/e/1FAIpQLSeqNJVte7gcZqgjoxhqdn5hvJjxj2Tk0dr-xSJX8WmwWyQcbw/viewform?usp=header]
+- **Técnica utilizada:** [Formulário online via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeqNJVte7gcZqgjoxhqdn5hvJjxj2Tk0dr-xSJX8WmwWyQcbw/viewform?usp=header)
 - **Período de aplicação:** 18/11/2026 a 19/11/2026
 - **Quantidade de participantes:** 2 entrevistados 
 - **Critério de seleção:** Pessoas que vivenciam o problema descrito no briefing, incluindo pelo menos um usuário com necessidades de acessibilidade
