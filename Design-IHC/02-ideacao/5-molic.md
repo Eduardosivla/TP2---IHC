@@ -1,23 +1,20 @@
-
 # Diagramas de Interação (MoLIC) 🗨️
 
 Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre os utilizadores e o sistema através da linguagem **MoLIC (*Modeling Language for Interaction as Conversation*)**, evidenciando as cenas de diálogo, as falas do utilizador (`u:`), as respostas do sistema (`d:`), os processamentos internos e as transições de ruptura.
 
 ---
 
-## 1. Visão Geral do Diagrama MoLIC Completo 🌐
+## Visão Geral do Diagrama MoLIC Completo 🌐
 
 <img width="6913" height="2779" alt="image" src="https://github.com/user-attachments/assets/c624ee09-82af-4c5f-9297-38cbb34277d2" />
 
 ---
 
-## 2. Detalhamento do Diagrama por Fluxos Ampliados 🔍
-
-Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA definido anteriormente, o diagrama completo foi dividido em seis partes correspondentes aos fluxos principais do sistema:
+## Detalhamento do Diagrama por Fluxos Ampliados 🔍
 
 ---
 
-### 2.1. Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
+### Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
 
 <img width="3784" height="6944" alt="image" src="https://github.com/user-attachments/assets/82a5f3fc-2bc7-4ce8-ac1c-7cda5d233d38" />
 
@@ -29,7 +26,7 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ---
 
-### 2.2. Fluxo 2 — Navegação e Seleção de Contextos (HTA 02) 🧭
+### Fluxo 2 — Navegação e Seleção de Contextos (HTA 02) 🧭
 
 <img width="4044" height="7013" alt="image" src="https://github.com/user-attachments/assets/f859e32d-c3fb-4fc7-9202-d370669a53d3" />
 
@@ -41,7 +38,7 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ---
 
-### 2.3. Fluxo 3 — Pareamento de Sessão e Contingência Offline (HTA 03) 📲
+### Fluxo 3 — Pareamento de Sessão e Contingência Offline (HTA 03) 📲
 
 <img width="4964" height="5173" alt="image" src="https://github.com/user-attachments/assets/5f38de66-d256-441d-b571-c51776842fbc" />
 
@@ -52,9 +49,10 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ---
 
-### 2.4. Fluxo 4 — Comunicação Bidirecional Assistida por IA (HTA 04) 🤖
+### Fluxo 4 — Comunicação Bidirecional Assistida por IA (HTA 04) 🤖
 
-![MoLIC - HTA 04](../assets/molic-hta-04.png)
+<img width="4964" height="7013" alt="image" src="https://github.com/user-attachments/assets/7281f3d3-5107-4377-83c7-b9eeed455c2c" />
+
 
 * **Descrição Geral:** Modela o ciclo contínuo de diálogo em tempo real entre dois dispositivos pareados, utilizando Inteligência Artificial para traduzir pictogramas em linguagem natural e voz em pictogramas.
 * **Cenas e Transições:**
@@ -64,9 +62,10 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ---
 
-### 2.5. Fluxo 5 — Comunicação de Contingência em Tela Única (HTA 05) 📴
+### Fluxo 5 — Comunicação de Contingência em Tela Única (HTA 05) 📴
 
-![MoLIC - HTA 05](../assets/molic-hta-05.png)
+<img width="4339" height="7013" alt="image" src="https://github.com/user-attachments/assets/69dcb161-7425-432b-ad31-746e775ef196" />
+
 
 * **Descrição Geral:** Apresenta o fluxo de interação offline num único dispositivo partilhado, organizado por passagens explícitas de turno entre emissor e interlocutor.
 * **Cenas e Transições:**
@@ -76,9 +75,10 @@ Para garantir a legibilidade e demonstrar o alinhamento direto com cada HTA defi
 
 ---
 
-### 2.6. Fluxo 6 — Gerenciamento de Perfil, Acessibilidade e Saída (HTA 06) ⚙️
+### Fluxo 6 — Gerenciamento de Perfil, Acessibilidade e Saída (HTA 06) ⚙️
 
-![MoLIC - HTA 06](../assets/molic-hta-06.png)
+<img width="4964" height="3298" alt="image" src="https://github.com/user-attachments/assets/3e8842db-079a-4dbe-96dc-80656ea5f372" />
+
 
 * **Descrição Geral:** Agrupa as ações de consulta e edição de conta, personalização de acessibilidade e encerramento de sessão.
 * **Cenas e Transições:**
