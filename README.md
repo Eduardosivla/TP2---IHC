@@ -13,12 +13,12 @@
 ---
 
 ## 👥 Integrantes da Equipe
-1. Malcon Vinicios Tavares Vanlente — [@github](https://github.com/MalconTav)
-2. Carlos Eduardo Costa da Silva — [@github](https://github.com/Eduardosivla)
-3. Jean Carlos Silva de Sena — [@github](https://github.com/usuario3)
-4. Kathleen Carvalho Coimbra — [@github](https://github.com/usuario4)
-5. Endriew Silva Lucas — [@github](https://github.com/usuario5)
-6. Lucas Bina Paulo — [@github](https://github.com/usuario6) 
+1. Malcon Vinicios Tavares Vanlente
+2. Carlos Eduardo Costa da Silva 
+3. Jean Carlos Silva de Sena 
+4. Kathleen Carvalho Coimbra 
+5. Endriew Silva Lucas 
+6. Lucas Bina Paulo 
 
 ---
 
