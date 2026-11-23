@@ -6,13 +6,13 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 ## 1. Visão Geral das Telas Projetadas 📱
 
+---
+
 ### 1.1. Fluxo de Boas-Vindas e Introdução (Onboarding — 05 Telas) 👋
 
 *(Apresentação inicial dos recursos de CAA, pareamento por QR Code, tradução por IA e modo offline)*
 
 <img width="1150" height="1357" alt="image" src="https://github.com/user-attachments/assets/d7efeca8-dde9-4ae9-926b-c69db8db9a00" />
-
-
 
 * **Descrição e Correspondência com o Modelo:** Apresenta ao novo utilizador os pilares do sistema em cinco cartões sequenciais (`Bem-vindo`, `Existem várias formas de falar`, `Dois aparelhos, uma conexão`, `Mais compreensão, menos barreiras` e `Funciona mesmo sem internet`), reduzindo o receio inicial antes do acesso à conta.
 * **Análise de Design:**
@@ -49,6 +49,8 @@ Para validar a melhor organização visual e de navegação, a equipe prototipou
 | Versão B (Alternativa — Abas Superiores e Grade 2x2) |
 | :---: |
 |<img width="27701" height="7341" alt="Entrar (1)_page-0001" src="https://github.com/user-attachments/assets/a0977432-7a2d-43ad-9e92-9b704d12087a" />|
+
+---
 
 ### Análise Comparativa e Decisão da Equipe
 
