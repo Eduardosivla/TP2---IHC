@@ -95,6 +95,5 @@
 ---
 
 ## 4. Registro da Realização da Reunião 📸
-*(Evidência obrigatória — certifique-se de ocultar o rosto e dados identificáveis da participante na imagem antes de subir para o repositório)*
 
-![Registro da reunião de briefing](../assets/registro-briefing.png)
+<img width="1200" height="891" alt="image" src="https://github.com/user-attachments/assets/d9b7c6de-b853-43e4-855b-5667cf995fb4" />
