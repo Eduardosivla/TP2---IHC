@@ -27,6 +27,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 * 🟪 **4. Formas de utilizar a solução:** Selecionar o contexto do ambiente, baixar pacotes para uso offline quando necessário e escolher entre a **versão gratuita** (funcionalidades básicas amplas) ou a **versão premium** (vantagens adicionais e uso ilimitado da IA).
 
 ---
-## Para melhor vizualizar:
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9ed9d66b-4912-4440-ba2a-3fe03ca8cb07" />
 
+## Para melhor vizualizar:
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9ed9d66b-4912-4440-ba2a-3fe03ca8cb07" />
