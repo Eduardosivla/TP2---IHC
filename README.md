@@ -23,7 +23,7 @@
 ---
 
 ## 🧏🏻 Breve Apresentação do Sistema
-Pessoas que utilizam sistemas de Comunicação Aumentativa e Alternativa (CAA) frequentemente enfrentam barreiras ao interagir com atendentes, profissionais de saúde, motoristas e outras pessoas que desconhecem o significado dos pictogramas ou não sabem como responder.
+O Comunicador Contextual CAA é uma ferramenta complementar de Comunicação Aumentativa e Alternativa (CAA) focada em resolver um problema crítico: a dificuldade na interação entre utilizadores de pictogramas e pessoas que não estão familiarizadas com eles (como um atendente num restaurante). O objetivo não é substituir os apps de montagem de frases, mas atuar como uma ponte recíproca, focando no "outro lado" da conversa.  Pontos Chaves Problema Resolvido: Pessoas que utilizam a CCA conseguem formar frases conforme no ambiente em que estão, ex: Restaurante - Pedir uma água. Porém são encontradas barreiras entre o Locutor e o interlocutor por dificuldades em interpretar. 
 
 O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outro lado da conversa". Por meio de seleção de contextos cotidianos (como hospitais, restaurantes, escolas e transportes), mensagens multimodais (pictograma + texto claro + reprodução de áudio), modo interlocutor simplificado com respostas rápidas e validação de entendimento, o aplicativo busca reduzir ruídos de interpretação e promover maior autonomia ao usuário de CAA.
 
