@@ -4,7 +4,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 ---
 
-## 1. Metamensagem do [Nome do Aplicativo] 💡
+## 1. Metamensagem do YouTalking 💡
 
 > *"Caro(a) usuário(a) do aplicativo **YouTalking**, eu entendi que você está enfrentando 🟦 **dificuldades para se comunicar com pessoas que dependem da CAA (Comunicação Aumentativa e Alternativa)**. Sabemos que você deseja 🟩 **melhorar a interação com essas pessoas para auxiliá-las e compreendê-las de modo eficaz e preciso**.*
 >
