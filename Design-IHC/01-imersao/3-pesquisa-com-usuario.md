@@ -1,6 +1,9 @@
 # Pesquisa Complementar com Usuários 👥
 
+---
+
 ## 1. Metodologia e Perfil dos Participantes 🔍
+
 - **Técnica utilizada:** [Formulário online via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeqNJVte7gcZqgjoxhqdn5hvJjxj2Tk0dr-xSJX8WmwWyQcbw/viewform?usp=header)
 - **Período de aplicação:** 16/11/2026 *(conforme carimbos de data/hora das respostas coletadas)*
 - **Quantidade de participantes:** 2 profissionais entrevistados(as)
@@ -12,6 +15,8 @@
 
 ## 2. Roteiro Utilizado 📝
 
+---
+
 ### 👤 Bloco A — Perfil, Contexto e Dificuldades Atuais (Base para PATHY: *Quem*, *Contexto* e *Problemas*)
 
 1. Há quanto tempo você trabalha na área da Educação Especial e já acompanhou alunos que apresentam dificuldades na comunicação verbal ou utilizam recursos de Comunicação Aumentativa e Alternativa (CAA)?
@@ -20,12 +25,16 @@
 4. Em quais ambientes ou situações essas dificuldades de comunicação costumam acontecer com maior frequência?
 5. Como as pessoas que não conhecem a CAA geralmente reagem quando precisam interagir com alguém que utiliza pictogramas ou outros recursos de comunicação?
 
+---
+
 ### 🧩 Bloco B — Validação da Proposta e da Matriz CSD (Base para Matriz CSD: *Suposições* e *Dúvidas*)
 
 6. *(Investiga `S3` e `D8`)* Você acredita que a seleção de contextos, como escola, hospital, restaurante e transporte, poderia facilitar a comunicação dos alunos? Por quê?
 7. *(Investiga `S2`, `S4` e `D8`)* Uma interface simplificada para o interlocutor, com mensagens e respostas rápidas, como "Claro!", "Um momento" e "Não entendi", seria útil? Quais outras respostas seriam importantes?
 8. *(Investiga `S6`)* Como você avalia a possibilidade de o aluno confirmar, corrigir ou rejeitar a interpretação da outra pessoa, evitando possíveis mal-entendidos?
 9. *(Investiga `S5`)* Você considera importante que as mensagens também possam ser reproduzidas em áudio? Em quais situações esse recurso seria mais útil?
+
+---
 
 ### 💻 Bloco C — Acessibilidade, Funcionalidades e Benefícios (Base para PATHY: *Experiências* e *Soluções Existentes*)
 
@@ -37,6 +46,8 @@
 
 ## 3. Síntese das Principais Informações Obtidas 📊
 
+---
+
 ### ✅ Validação das Suposições e Dúvidas (Matriz CSD)
 
 - **`S1` [Confirmada] (Celular/tablet como dispositivo principal):** Os participantes apontaram o aplicativo no celular como formato adequado para o uso cotidiano com os alunos.
@@ -45,6 +56,8 @@
 - **`S5` [Confirmada] (Utilidade da reprodução em áudio):** O recurso de áudio foi avaliado como importante especialmente para crianças não verbais, com destaque para o uso na rotina em sala de aula e em momentos coletivos.
 - **`S6` [Parcialmente confirmada] (Confirmação, correção ou rejeição da interpretação):** Enquanto um profissional avaliou que o recurso tornaria a interação mais agradável, o outro ponderou que crianças não verbais costumam ser muito diretas quando conseguem se expressar, reduzindo a chance de mal-entendidos após o envio claro da mensagem.
 - **`D2` [Respondida] (Funcionamento sem internet):** Um dos entrevistados destacou explicitamente que o aplicativo **não deve depender exclusivamente da internet** para ser manuseado, validando a necessidade do modo offline.
+
+---
 
 ### 💡 Principais Padrões de Comportamento e Dores Identificados
 
