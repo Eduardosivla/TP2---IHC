@@ -74,8 +74,4 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
   * `U | Ajustar preferências de acessibilidade do sistema`
   * `U | Encerrar sessão (Logout)`
 
----
 
-## 4. Alinhamento com a Próxima Etapa (HTAs) 🔗
-
-Os objetivos finais definidos neste mapa servem de base direta para a modelagem das tarefas na etapa seguinte (`4-htas.md`), onde cada HTA será apresentado lado a lado com o recorte correspondente deste mapa para evidenciar a consistência conceitual e hierárquica do design.
