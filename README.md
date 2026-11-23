@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>[Nome do Aplicativo] — Design de IHC (TP2) </h1>
+  <h1>YouTalking — Design de IHC (TP2) </h1>
   <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
-  <p><img width="836" height="534" alt="image" src="https://github.com/user-attachments/assets/0e246973-0b1d-4904-a0ff-84ea201d5088" /></p>
+  <p> </p>
 </div>
 
 
@@ -29,7 +29,7 @@
 
 Pessoas que utilizam sistemas de Comunicação Aumentativa e Alternativa (CAA) frequentemente enfrentam barreiras ao interagir com atendentes, profissionais de saúde, motoristas e outras pessoas que desconhecem o significado dos pictogramas ou não sabem como responder.
 
-O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outro lado da conversa". Por meio de seleção de contextos cotidianos (como hospitais, restaurantes, escolas e transportes), mensagens multimodais (pictograma + texto claro + reprodução de áudio), modo interlocutor simplificado com respostas rápidas e validação de entendimento, o aplicativo busca reduzir ruídos de interpretação e promover maior autonomia ao usuário de CAA.
+O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da conversa". Por meio de seleção de contextos cotidianos (como hospitais, restaurantes, escolas e transportes), mensagens multimodais (pictograma + texto claro + reprodução de áudio), modo interlocutor simplificado com respostas rápidas e validação de entendimento, o aplicativo busca reduzir ruídos de interpretação e promover maior autonomia ao usuário de CAA.
 
 <!-- ![Banner do Projeto](./assets/banner.png) -->
 
