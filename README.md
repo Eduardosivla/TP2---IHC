@@ -103,7 +103,7 @@ O **[Nome do Aplicativo]** atua como uma ponte comunicativa rápida para o "outr
 * **Coleta de Dados e Pesquisa:** Google Forms e Google Meet 
 * **Criação de Personas e Quadros Visuais:** Boardmix , Canva e Miro
 * **Modelagem de Diagramas (Mapa de Objetivos, HTAs e MoLIC):** Draw.io
-* **Prototipação de Baixa Fidelidade (Sketches):** Figma e Draw.io 
+* **Prototipação de Baixa Fidelidade (Sketches):** Miro e Draw.io 
 
 ---
 
