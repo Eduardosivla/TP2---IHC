@@ -8,7 +8,6 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 <img width="6229" height="1752" alt="image" src="https://github.com/user-attachments/assets/6d067ad3-e507-4270-8250-98c5dc8be3fc" />
 
-
 ---
 
 ## Detalhamento do Diagrama por Fluxos Ampliados 🔍
@@ -18,7 +17,6 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 ### Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
 
 <img width="790" height="1632" alt="image" src="https://github.com/user-attachments/assets/c74ad890-f08b-4a5f-9ce8-2db3968c1418" />
-
 
 * **Descrição Geral:** Modela a entrada no aplicativo desde o ponto de abertura até à definição do papel do utilizador na sessão (**Usuário CAA** ou **Interlocutor**), contemplando o cadastro com validação de e-mail, o acesso via e-mail ou conta Google e a recuperação de palavra-passe.
 * **Cenas e Transições:**
@@ -55,7 +53,6 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 <img width="4964" height="7013" alt="image" src="https://github.com/user-attachments/assets/7281f3d3-5107-4377-83c7-b9eeed455c2c" />
 
-
 * **Descrição Geral:** Modela o ciclo contínuo de diálogo em tempo real entre dois dispositivos pareados, utilizando Inteligência Artificial para traduzir pictogramas em linguagem natural e voz em pictogramas.
 * **Cenas e Transições:**
   * **Cena `Mensagem do usuário CAA`:** Após `u: entrou no chat`, o emissor seleciona os pictogramas do contexto, valida a frase estruturada pela IA e envia (`u: enviar mensagem`).
@@ -67,7 +64,6 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 ### Fluxo 5 — Comunicação de Contingência em Tela Única (HTA 05) 📴
 
 <img width="4339" height="7013" alt="image" src="https://github.com/user-attachments/assets/69dcb161-7425-432b-ad31-746e775ef196" />
-
 
 * **Descrição Geral:** Apresenta o fluxo de interação offline num único dispositivo partilhado, organizado por passagens explícitas de turno entre emissor e interlocutor.
 * **Cenas e Transições:**
@@ -81,12 +77,9 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 <img width="812" height="1002" alt="image" src="https://github.com/user-attachments/assets/3e3baa42-0e4e-47c7-929e-29e0dcc7ee81" />
 
-
 * **Descrição Geral:** Agrupa as ações de consulta e edição de conta, personalização de acessibilidade e encerramento de sessão.
 * **Cenas e Transições:**
   * **Cena `Ver dados`:** Permite visualizar nome, e-mail e palavra-passe (`u: confirmar acao`).
   * **Cena `Atualizar dados`, `Alterar os campos` e `Alterar email`:** Permite editar nome ou e-mail; caso o e-mail seja modificado (`u: alterar email`), aciona a cena `Alterar email` para definição, confirmação e validação via link no Gmail.
   * **Cena `Acessibilidade do sistema` $\rightarrow$ Cena `Definições de acessibilidade`:** Permite configurar tamanho de fonte/pictogramas, contraste, velocidade e tom da voz TTS (`definiu as configurações`).
   * **Cena `Sair do sistema` $\rightarrow$ Ponto de Encerramento:** Ao tocar em *"sair/deslogar"*, finaliza a sessão e encerra o diagrama.
-
-
