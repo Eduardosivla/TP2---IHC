@@ -1,7 +1,8 @@
 <div align="center">
   <h1>YouTalking — Design de IHC (TP2) </h1>
   <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
-  <p> </p>
+  <p> <img width="436" height="314" alt="image" src="https://github.com/user-attachments/assets/c95f3264-f6f1-4529-8b1f-0dd7a7c85546" />
+ </p>
 </div>
 
 
