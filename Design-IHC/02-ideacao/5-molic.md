@@ -6,7 +6,8 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 ## Visão Geral do Diagrama MoLIC Completo 🌐
 
-<img width="6913" height="2779" alt="image" src="https://github.com/user-attachments/assets/c624ee09-82af-4c5f-9297-38cbb34277d2" />
+<img width="6229" height="1752" alt="image" src="https://github.com/user-attachments/assets/6d067ad3-e507-4270-8250-98c5dc8be3fc" />
+
 
 ---
 
@@ -87,4 +88,5 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
   * **Cena `Atualizar dados`, `Alterar os campos` e `Alterar email`:** Permite editar nome ou e-mail; caso o e-mail seja modificado (`u: alterar email`), aciona a cena `Alterar email` para definição, confirmação e validação via link no Gmail.
   * **Cena `Acessibilidade do sistema` $\rightarrow$ Cena `Definições de acessibilidade`:** Permite configurar tamanho de fonte/pictogramas, contraste, velocidade e tom da voz TTS (`definiu as configurações`).
   * **Cena `Sair do sistema` $\rightarrow$ Ponto de Encerramento:** Ao tocar em *"sair/deslogar"*, finaliza a sessão e encerra o diagrama.
+
 
