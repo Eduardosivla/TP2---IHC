@@ -3,6 +3,7 @@
 Após a realização do briefing com o representante do cliente, a equipe organizou as informações coletadas na Matriz CSD abaixo para distinguir os fatos já comprovados das hipóteses e lacunas que precisam ser investigadas com os usuários finais.
 
 ## 1. Visão Geral da Matriz 📝
+<img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/752953e0-cd75-4630-bfa6-c1a67728ede7" />
 
 | Certezas (C) | Suposições (S) | Dúvidas (D) |
 | :--- | :--- | :--- |
