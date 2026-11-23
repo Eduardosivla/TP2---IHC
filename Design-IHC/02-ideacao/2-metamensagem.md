@@ -5,13 +5,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 ---
 
-## 1. Template da Engenharia Semiótica 📐
-
-> *"Esta é a minha interpretação sobre **quem você é**, o que eu entendi que **você quer ou precisa fazer**, de que **formas prefere fazê-lo e por quê**. Este é o **sistema que eu projetei para você**, e esta é a **forma que você pode ou deve usá-lo** para conseguir atingir os objetivos incorporados na minha visão."*
-
----
-
-## 2. Metamensagem do [Nome do Aplicativo] 💡
+## 1. Metamensagem do [Nome do Aplicativo] 💡
 
 > *"Caro(a) usuário(a) do aplicativo **[Nome do Aplicativo]**, eu entendi que você está enfrentando 🟦 **dificuldades para se comunicar com pessoas que dependem da CAA (Comunicação Aumentativa e Alternativa)**. Sabemos que você deseja 🟩 **melhorar a interação com essas pessoas para auxiliá-las e compreendê-las de modo eficaz e preciso**.*
 >
@@ -23,7 +17,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 ---
 
-## 3. Legenda dos Elementos da Metamensagem 🗂️
+## 2. Legenda dos Elementos da Metamensagem 🗂️
 
 * 🟦 **1. Quem é o usuário:** Pessoas que necessitam compreender e interagir com usuários de Comunicação Aumentativa e Alternativa (CAA) no dia a dia.
   
@@ -32,3 +26,4 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 * 🟧 **3. Qual é a solução projetada:** Um aplicativo que apoia a interação com usuários de CAA oferecendo mensagens e respostas rápidas predefinidas, seleção de contexto/local específico, suporte offline, auxílio de Inteligência Artificial e planos gratuito e premium.
   
 * 🟪 **4. Formas de utilizar a solução:** Selecionar o contexto do ambiente, baixar pacotes para uso offline quando necessário e escolher entre a **versão gratuita** (funcionalidades básicas amplas) ou a **versão premium** (vantagens adicionais e uso ilimitado da IA).
+
