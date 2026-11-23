@@ -42,9 +42,13 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 Para validar a melhor organização visual e de navegação, a equipe prototipou duas variantes completas do fluxo de entrada e da tela principal:
 
-| Versão A (Escolhida — Lista Vertical e Fluxo Guiado) | Versão B (Alternativa — Abas Superiores e Grade 2x2) |
-| :---: | :---: |
-| ![Fluxo Completo - Versão A](../assets/sketch-versao-a.png) | ![Fluxo Completo - Versão B](../assets/sketch-versao-b.png) |
+| Versão A (Escolhida — Lista Vertical e Fluxo Guiado) |
+| :---: |
+| <img width="1440" height="1084" alt="image" src="https://github.com/user-attachments/assets/c6cbb14b-ef09-4da6-a58f-7ec79e70c5b0" /> |
+
+| Versão B (Alternativa — Abas Superiores e Grade 2x2) |
+| :---: |
+|<img width="27701" height="7341" alt="Entrar (1)_page-0001" src="https://github.com/user-attachments/assets/a0977432-7a2d-43ad-9e92-9b704d12087a" />|
 
 ### Análise Comparativa e Decisão da Equipe
 
