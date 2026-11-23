@@ -6,6 +6,8 @@
 - **Quantidade de participantes:** 2 profissionais entrevistados(as)
 - **Critério de seleção:** Profissionais com atuação na área de Educação Especial e Inclusiva (entre 5 e 6 anos de experiência) que acompanham diretamente alunos não verbais ou com dificuldades na comunicação verbal e no uso de CAA.
 
+[Planilha dos Resultados obtidos](https://docs.google.com/spreadsheets/d/1YfjWMCJXHmnDMkUyDbZb0F1OQk2SX8mBtuJlGYLVDN0/edit?usp=sharing)
+
 ---
 
 ## 2. Roteiro Utilizado 📝
