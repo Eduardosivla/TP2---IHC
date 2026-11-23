@@ -108,9 +108,16 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 *(Correspondente ao bloco **Gerenciamento de Conta** do Mapa de Objetivos)*
 
-| Recorte do Mapa de Objetivos | Diagrama HTA 06 |
-| :---: | :---: |
-| ![Recorte Mapa - Gerenciar Perfil](../assets/recorte-mapa-06.png) | ![HTA 06 - Gerenciar Perfil](../assets/hta-06.png) |
+| Recorte do Mapa de Objetivos: |
+| :---: |
+
+<img width="3408" height="1704" alt="image" src="https://github.com/user-attachments/assets/8653a719-5ac6-4fd7-9cc6-afa1d268fb68" />
+
+| Diagrama HTA 06: |
+| :---: |
+
+<img width="7442" height="4084" alt="image" src="https://github.com/user-attachments/assets/0ffaf7f8-4c3a-47cd-b09d-6de899c8a9dc" />
+
 
 * **Propósito:** Permitir que os usuários consultem e atualizem seus dados cadastrais, personalizem parâmetros de acessibilidade da interface e encerrem sua sessão de forma segura.
 * **Descrição das Tarefas e Decisões de Design:** Ao acessar a área de perfil, o usuário visualiza seus dados cadastrais (`1`) e pode optar por atualizar informações pessoais (`2`), ajustar preferências de acessibilidade (`3`) ou encerrar a sessão (`4`). Na edição de perfil (`2.1` a `2.4`), a alteração do endereço de e-mail dispara um subfluxo obrigatório de verificação por link (`2.3.1` a `2.3.4`) para manter a integridade da conta. Na seção de acessibilidade (`3.1` e `3.2`), o usuário configura elementos críticos como tamanho da fonte e dos pictogramas, contraste de cores e velocidade ou tom da síntese de voz (TTS). Já o encerramento de sessão exige uma etapa dupla de confirmação (`4.1` e `4.2`), decisão adotada para prevenir saídas acidentais causadas por dificuldades motoras.
