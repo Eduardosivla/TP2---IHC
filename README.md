@@ -17,7 +17,7 @@
 2. Carlos Eduardo Costa da Silva 
 3. Jean Carlos Silva de Sena 
 4. Kathleen Carvalho Coimbra 
-5. Endriew Silva Lucas 
+5. Endryew Silva Lucas 
 6. Lucas Bina Paulo 
 
 ---
