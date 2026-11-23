@@ -9,7 +9,6 @@
 ---
 
 ## 2. Roteiro Utilizado 📝
-*(Evidência obrigatória — Roteiro de Entrevista com Responsável | Projeto: Comunicador Contextual CAA)*
 
 ### 1. Conhecendo a criança e sua rotina
 1. Como você descreveria seu filho e sua rotina de comunicação no dia a dia?
