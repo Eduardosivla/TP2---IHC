@@ -2,7 +2,10 @@
 
 Após a realização do briefing com o representante do cliente, a equipe organizou as informações coletadas na Matriz CSD abaixo para distinguir os fatos já comprovados das hipóteses e lacunas que precisam ser investigadas com os usuários finais.
 
+---
+
 ## 1. Visão Geral da Matriz 📝
+
 <img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/752953e0-cd75-4630-bfa6-c1a67728ede7" />
 
 | Certezas (C) | Suposições (S) | Dúvidas (D) |
@@ -22,6 +25,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 ---
 
 ## 2. Detalhamento e Justificativa dos Pontos 📌
+
+---
 
 ### Certezas 💡
 
@@ -43,6 +48,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
   
 - **C9 (Escopo de dados):** Delimitado no briefing quanto às informações manipuladas durante o fluxo de uso (mensagens selecionadas, respostas dos interlocutores, confirmações de entendimento e preferências de contexto).
 
+---
+
 ### Suposições 💭
 
 - **S1 (Uso predominante de smartphones/tablets):** A equipe parte da premissa de que dispositivos móveis pessoais (celular ou tablet) são o meio principal tanto do usuário de CAA quanto do interlocutor. Precisa ser confirmado com o público-alvo.
@@ -62,6 +69,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 - **S8 (Heterogeneidade de perfis e adaptações):** Parte-se da hipótese de que perfis variados (idade, alfabetização e habilidade motora) exigirão diferentes níveis de adaptação na interface.
   
 - **S9 (Uso sob pressão e restrição de tempo):** Supõe-se que o aplicativo será usado em situações com pressa ou estresse (como atendimento em hospital e filas), exigindo interação rápida.
+
+---
 
 ### Dúvidas 🤔
 
