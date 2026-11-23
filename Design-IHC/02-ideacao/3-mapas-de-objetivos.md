@@ -19,7 +19,9 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 
 ## 2. Visão Geral do Mapa de Objetivos 🗺️
 
-<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/0cc05d9d-063d-45ef-933f-bbe5d7a30929" />
+
+<img width="7442" height="10521" alt="Mapa de Objetivos drawio_page-0001 (1)" src="https://github.com/user-attachments/assets/f75606fc-9422-4f01-8d6b-47e8aaf1e03c" />
+
 
 
 ---
