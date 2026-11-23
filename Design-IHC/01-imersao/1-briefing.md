@@ -3,7 +3,7 @@
 ## 1. Informações Gerais da Reunião 🔍
 - **Data:** 12/11/2026 
 - **Local / Meio:**  Presencial
-- **Entrevistadores:** Endriew Lucas
+- **Entrevistadores:** Endriyw Lucas
 - **Representante do Cliente:** Mãe de Talisson Otto (criança de 8 anos diagnosticada com Transtorno do Espectro Autista — TEA, nível 2 de suporte).
 
 ---
@@ -96,5 +96,6 @@
 ## 4. Registro da Realização da Reunião 📸
 
 <img width="828" height="532" alt="image" src="https://github.com/user-attachments/assets/98477e95-9811-4f4e-a68b-6327d51ab961" />
+
 
 
