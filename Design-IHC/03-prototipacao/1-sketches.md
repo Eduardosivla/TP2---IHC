@@ -53,18 +53,17 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 <div align="justify">
 
-*(Apresentação alternativa do onboarding, com possibilidade de avançar diretamente para o acesso ao sistema)*
+*(Apresentação alternativa do onboarding, com slides informativos sobre comunicação por CAA, conexão à distância, tradução das respostas por IA e funcionamento offline)*
 
 </div>
 
 <img width="1050" height="1180" alt="onboarding_melhorado" src="https://github.com/user-attachments/assets/e4b5cfc6-9cd7-4c4a-a0e2-d714ba63a6b2" />
 
-
-* **Descrição e Correspondência com o Modelo:** Apresenta a alternativa de organização do fluxo de boas-vindas, mantendo a finalidade de introduzir os principais recursos do YouTalking antes da utilização. Assim como na Versão A, o percurso contempla a apresentação do sistema, das possibilidades de comunicação por CAA, do pareamento entre dispositivos e do funcionamento sem conexão com a internet.
+* **Descrição e Correspondência com o Modelo:** O fluxo é composto por cinco telas. A primeira apresenta a mensagem de boas-vindas (`Bem-vindo!`) e oferece as ações `Conhecer` e `Sair`. As quatro telas seguintes apresentam, em sequência, os principais recursos do aplicativo: comunicação por meio do toque em figuras para reproduzir mensagens em voz; conexão à distância por meio da leitura de um QR Code no aparelho do interlocutor; interpretação das respostas do interlocutor por IA, convertendo voz em figuras; e funcionamento mesmo sem conexão com a internet.
 * **Análise de Design:**
-  * **Usabilidade:** A inclusão da opção `Pular` permite que utilizadores que já conhecem o aplicativo avancem diretamente, oferecendo maior autonomia. Por outro lado, essa possibilidade pode fazer com que novos utilizadores deixem de visualizar orientações importantes.
-  * **Comunicabilidade:** A apresentação sequencial procura explicar a proposta do aplicativo de maneira gradual, enquanto a opção de pular comunica que a etapa introdutória não é obrigatória.
-  * **Experiência do Usuário (UX):** A alternativa prioriza a flexibilidade e a rapidez de acesso, permitindo que diferentes perfis de utilizadores escolham como desejam iniciar a navegação.
+  * **Usabilidade:** Nas telas informativas, a seta no canto superior esquerdo permite retornar ao slide anterior, enquanto a opção `Pular`, no canto superior direito, possibilita avançar diretamente para o acesso. O indicador de quatro pontos, com o ponto atual alongado, informa o progresso da apresentação. A primeira tela não possui os controles de voltar ou pular, oferecendo apenas as opções `Conhecer` e `Sair`. O texto de apoio é curto e favorece uma leitura rápida.
+  * **Comunicabilidade:** Cada slide procura transmitir uma ideia central — comunicação, conexão, compreensão das respostas e uso offline. Os títulos em duas linhas, com palavras-chave em negrito, reforçam visualmente o benefício apresentado. Entretanto, há repetição do texto de apoio sobre a IA traduzir a voz em figuras nas telas 4 e 5; na última tela, o conteúdo deveria explicar o funcionamento sem internet.
+  * **Experiência do Usuário (UX):** A sequência apresenta os recursos de forma gradual e oferece alternativas de navegação para diferentes níveis de familiaridade com o aplicativo. O botão final `Vamos lá` funciona como chamada clara para iniciar a utilização. A duplicação do texto de apoio nas duas últimas telas, assim como o pequeno texto ilegível abaixo do botão final, reduz a consistência e pode gerar dúvidas sobre o conteúdo offline.
 
 <br>
 
@@ -72,18 +71,21 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 <div align="justify">
 
-*(Alternativa de organização das telas principais, com abas de autenticação e disposição dos contextos em grade)*
+*(Alternativa de organização das telas principais, com abas de autenticação, cartões de seleção de perfil e disposição dos contextos em grade)*
 
 </div>
 
 <img width="1050" height="1180" alt="wireframes_melhorado" src="https://github.com/user-attachments/assets/576f3f2a-717d-45e8-b947-8426324cfa26" />
 
-
-* **Descrição e Correspondência com o Modelo:** Reúne a alternativa de fluxo para entrada no aplicativo, criação de conta, definição do perfil de utilização, acesso à tela inicial CAA e pareamento por QR Code. A proposta mantém as principais etapas funcionais representadas na Versão A, mas apresenta diferenças na disposição dos elementos e na organização da navegação.
+* **Tela 01 — Login (`Entrar`):** Apresenta as abas `Entrar` e `Criar conta`, com a primeira selecionada. Disponibiliza campos de e-mail e senha, recuperação de senha (`Esqueci minha senha`), botão principal `Entrar` e opções de autenticação social por Google e Apple.
+* **Tela 02 — Cadastro (`Criar conta`):** Mantém as mesmas abas de autenticação, com `Criar conta` selecionada. Reúne campos para nome completo, e-mail, senha e confirmação de senha, além de uma lista de requisitos da senha com marcadores de verificação e o botão `Criar conta`.
+* **Tela 03 — Escolha do Tipo de Usuário:** Pergunta `Que tipo de usuário você é?` e apresenta dois cartões grandes empilhados: `Sou comunicador`, acompanhado de um ícone de pessoa com ondas sonoras, e `Sou Ouvinte`, representado por um ícone de pessoa.
+* **Tela 04 — Home CAA:** Apresenta cabeçalho com menu hambúrguer, saudação personalizada (`Olá, Carlos`), indicador de estado `online` e ícone de perfil. Abaixo, reúne campo de pesquisa (`Pesquisar contexto...`), cartão de conexão à distância (`Comunique-se à distância`, com botão `Conectar`), sugestão por localização (com ação `Abrir`), atalhos para `Vocabulário Geral` e `Rotinas Salvas`, além da seção `Contextos`, com opção `Ver mais` e grade 2x2 para Restaurante, Hospital, Transporte e Social. A barra inferior apresenta quatro opções, incluindo Início, Offline e Ajustes.
+* **Tela 05 — Pareamento:** Exibe o título `Escaneie o QR Code`, com o código em tamanho grande e centralizado dentro de um cartão, além de uma seta de retorno no canto superior esquerdo.
 * **Análise de Design:**
-  * **Usabilidade:** A utilização de abas superiores para alternar entre `Entrar` e `Criar conta` concentra as opções de autenticação em uma mesma área. Na Home CAA, a grade 2x2 organiza os contextos em uma composição mais compacta, acompanhada dos cartões de vocabulário geral e rotinas salvas.
-  * **Comunicabilidade:** As abas identificam diretamente as duas ações de autenticação, enquanto os cartões da tela inicial apresentam visualmente os contextos disponíveis. A proximidade entre diferentes opções, entretanto, pode exigir maior atenção para distinguir cada área.
-  * **Experiência do Usuário (UX):** A Versão B propõe uma interface mais compacta e uma navegação de acesso mais direta. Em contrapartida, a concentração de elementos e a redução da área dos cartões podem afetar a facilidade de interação, especialmente para pessoas que necessitam de alvos de toque maiores.
+  * **Usabilidade:** As abas agrupam login e cadastro em uma mesma área, e as opções de acesso por Google e Apple podem agilizar a entrada. No cadastro, a lista de requisitos da senha antecipa critérios e ajuda a prevenir erros de preenchimento. Na Home CAA, a busca permanece no topo e os contextos estão destacados; o QR Code amplo favorece a leitura pela câmera. Em contrapartida, a quantidade de elementos na tela inicial e o tamanho reduzido de alguns cartões podem dificultar a interação de pessoas com limitações motoras.
+  * **Comunicabilidade:** Os rótulos das abas deixam explícitas as ações de entrar e criar conta. Na seleção de perfil, a pergunta direta e os ícones acompanhados de texto ajudam a diferenciar os papéis de comunicador e ouvinte. Na Home, os nomes dos contextos tornam as opções reconhecíveis e o indicador `online` comunica o estado da conexão.
+  * **Experiência do Usuário (UX):** A Home concentra recursos relevantes — pesquisa, conexão remota, sugestão por localização, vocabulário, rotinas e contextos — reduzindo a necessidade de navegar entre várias telas para encontrar funções frequentes. Por outro lado, essa concentração torna a interface visualmente mais densa. A grade 2x2 e os cartões menores podem reduzir a área de toque, enquanto a barra inferior com múltiplos itens acrescenta opções simultâneas à navegação.
 
 
 <br>
@@ -114,7 +116,7 @@ Para validar a melhor organização visual e de navegação, a equipe prototipou
 ### Análise Comparativa e Decisão da Equipe
 
 1. **Onboarding (`Versão A` vs. `Versão B`):**
-* Na **Versão B**, foi adicionado o botão `Pular` no topo superior direito de todas as telas introdutórias. Embora agilize o avanço, o botão pequeno no canto superior exige maior precisão motora e pode levar utilizadores iniciantes a saltar explicações importantes sobre o pareamento e o modo offline.
+* Na **Versão B**, o botão `Pular` aparece no canto superior direito das quatro telas informativas (2 a 5), mas não na tela inicial de boas-vindas. Embora agilize o avanço, sua posição e dimensão podem exigir maior precisão motora e levar utilizadores iniciantes a saltar explicações importantes sobre o pareamento e o modo offline. A análise do protótipo também identificou a repetição do texto de apoio sobre IA nas duas últimas telas.
 * A **Versão A** mantém o foco em botões amplos na base da tela (`Continuar` / `Vamos lá?`) e o botão `Sair` logo na primeira tela para quem já conhece o sistema.
 2. **Autenticação e Cadastro (`Versão A` vs. `Versão B`):**
 * A **Versão B** utiliza abas alternáveis no topo (`Entrar` | `Criar conta`), enquanto a **Versão A** apresenta telas dedicadas com títulos grandes (`Bem-vindo` e `Crie sua conta`) e links explícitos na base (`Ainda não tem conta? Criar conta` / `Já tem uma conta? Entrar`), oferecendo melhor **comunicabilidade** e menor ambiguidade visual.
