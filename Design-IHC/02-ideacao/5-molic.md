@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre os utilizadores e o sistema através da linguagem **MoLIC (*Modeling Language for Interaction as Conversation*)**, evidenciando as cenas de diálogo, as falas do utilizador (`u:`), as respostas do sistema (`d:`), os processamentos internos e as transições de ruptura.
-
-</div>
 
 </div>
 

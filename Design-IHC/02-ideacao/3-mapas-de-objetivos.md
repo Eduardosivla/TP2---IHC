@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Após a definição da metamensagem, a equipe construiu o **Mapa de Objetivos** para representar graficamente as metas principais de cada perfil de usuário ao interagir com o sistema, identificando tanto objetivos exclusivos quanto objetivos compartilhados entre as personas.
-
-</div>
 
 </div>
 
@@ -14,11 +10,7 @@ Após a definição da metamensagem, a equipe construiu o **Mapa de Objetivos** 
 
 <div align="justify">
 
-<div align="justify">
-
 Para manter a rastreabilidade com as personas definidas na etapa anterior e seguir a notação recomendada pela disciplina, adotaram-se os seguintes papéis no diagrama:
-
-</div>
 
 </div>
 
@@ -28,11 +20,7 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 
 <div align="justify">
 
-<div align="justify">
-
 *(Notação: `Papel | Objetivo Final`, com setas indicando quais subobjetivos instrumentam diretamente o objetivo principal, sem detalhar ainda planos operacionais)*.
-
-</div>
 
 </div>
 

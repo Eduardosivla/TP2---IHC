@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe modelou **06 diagramas HTA (Hierarchical Task Analysis)**. Cada diagrama abaixo é apresentado **lado a lado** com o recorte correspondente do Mapa de Objetivos para evidenciar a rastreabilidade e a consistência hierárquica entre o planejamento e o detalhamento das tarefas.
-
-</div>
 
 </div>
 
@@ -14,11 +10,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Gestão de Acesso e Autenticação** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
@@ -39,11 +31,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Navegação e Contextos (Home CAA)** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
@@ -64,11 +52,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Pareamento de Sessão (Modo Online / Duas Telas)** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
@@ -89,11 +73,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Comunicação Assistida por IA** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
@@ -114,11 +94,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Comunicação de Contingência (Modo Offline / Tela Única)** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
@@ -139,11 +115,7 @@ Com base nos objetivos principais definidos no Mapa de Objetivos, a equipe model
 
 <div align="justify">
 
-<div align="justify">
-
 *(Correspondente ao bloco **Gerenciamento de Conta** do Mapa de Objetivos)*
-
-</div>
 
 </div>
 
