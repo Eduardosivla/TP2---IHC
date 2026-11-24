@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Com base nos dados levantados na etapa de imersão (briefing, Matriz CSD e pesquisa complementar com usuários), a equipe construiu três personas utilizando a técnica **PATHY**. Os perfis representam os diferentes papéis envolvidos no uso do **Comunicador Contextual CAA**, contemplando usuários com necessidades de acessibilidade e interlocutores não familiarizados com Comunicação Aumentativa e Alternativa.
-
-</div>
 
 </div>
 
@@ -22,11 +18,7 @@ Com base nos dados levantados na etapa de imersão (briefing, Matriz CSD e pesqu
 
 <div align="justify">
 
-<div align="justify">
-
 José Felipe é um jovem autista não verbal, que mora em Itacoatiara com a mãe e a irmã mais nova. Ele gosta de se comunicar à sua maneira, gosta de música, de desenhar e de sair para passear. Comunica-se principalmente por CAA (Comunicação Aumentativa e Alternativa) usando pictogramas no celular. Compreende tudo o que falam com ele, mas tem dificuldade para falar oralmente, principalmente em ambientes barulhentos ou com pessoas desconhecidas.
-
-</div>
 
 </div>
 
@@ -34,11 +26,7 @@ José Felipe é um jovem autista não verbal, que mora em Itacoatiara com a mãe
 
 <div align="justify">
 
-<div align="justify">
-
 Possui uma rotina previsível que inclui música, desenho e passeios. Utiliza CAA há 3 anos e se comunica bem em casa, mas em lugares barulhentos e com desconhecidos — como restaurantes — enfrenta dificuldades para ser compreendido e precisa que o interlocutor espere, leia os pictogramas na ordem certa e confirme se entendeu.
-
-</div>
 
 </div>
 
@@ -75,11 +63,7 @@ Possui uma rotina previsível que inclui música, desenho e passeios. Utiliza CA
 
 <div align="justify">
 
-<div align="justify">
-
 Fernanda Lima é atendente de restaurante em Itacoatiara e trabalha no horário de almoço, o período mais corrido do dia. Descreve-se como uma pessoa simpática, prestativa e que gosta de atender bem, mas fica nervosa e sem jeito quando não consegue entender o que o cliente deseja. Nunca teve contato com CAA, não sabe o que são pictogramas e atua como interlocutora principal no modo interlocutor do aplicativo.
-
-</div>
 
 </div>
 
@@ -87,11 +71,7 @@ Fernanda Lima é atendente de restaurante em Itacoatiara e trabalha no horário 
 
 <div align="justify">
 
-<div align="justify">
-
 Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mostrava a tela do celular com pictogramas, travava, não sabia se podia tocar na tela ou se devia esperar, acabando por falar direto com o acompanhante para resolver mais rápido devido à fila e à pressão do trabalho. Precisa de uma interface simples que mostre em poucos segundos o que a pessoa quer, com áudio e botões claros de resposta.
-
-</div>
 
 </div>
 
@@ -130,11 +110,7 @@ Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mos
 
 <div align="justify">
 
-<div align="justify">
-
 Beatriz Almeida é uma mulher muda, mas não surda: ouve perfeitamente e entende tudo o que falam com ela, porém não consegue falar oralmente desde a infância devido a uma condição nas cordas vocais. Mora sozinha em Itacoatiara, trabalha como designer em *home office*, ama sua independência e faz questão de resolver tudo sozinha. Descreve-se como decidida, observadora e não gosta de ser tratada como incapaz.
-
-</div>
 
 </div>
 
@@ -142,11 +118,7 @@ Beatriz Almeida é uma mulher muda, mas não surda: ouve perfeitamente e entende
 
 <div align="justify">
 
-<div align="justify">
-
 Utiliza o aplicativo em contextos sociais sem acompanhante para falar por ela: no restaurante (fazer pedidos, trocar pratos, pedir a conta), no hospital (explicar sintomas, indicar onde dói e confirmar receitas) e no mercado (pedir ajuda para localizar produtos e consultar preços). Como os interlocutores desconhecem CAA, costumam falar alto achando que ela é surda ou tratá-la de forma infantilizada. Precisa do modo interlocutor com interface simples, áudio predefinido e opções como *"entendi"* ou *"tenho dúvida"*.
-
-</div>
 
 </div>
 

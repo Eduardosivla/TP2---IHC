@@ -9,11 +9,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 [Planilha dos Resultados obtidos](https://docs.google.com/spreadsheets/d/1YfjWMCJXHmnDMkUyDbZb0F1OQk2SX8mBtuJlGYLVDN0/edit?usp=sharing)
-
-</div>
 
 </div>
 

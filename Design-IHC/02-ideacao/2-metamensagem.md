@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita transmitida pelos projetistas aos usuários por meio da interface, sintetizando quem são os usuários, o que desejam realizar e como o sistema deve ser utilizado.
-
-</div>
 
 </div>
 
@@ -16,11 +12,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
-<div align="justify">
-
 >
-
-</div>
 
 </div>
 
@@ -28,11 +20,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
-<div align="justify">
-
 >
-
-</div>
 
 </div>
 
@@ -40,11 +28,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
-<div align="justify">
-
 >
-
-</div>
 
 </div>
 
