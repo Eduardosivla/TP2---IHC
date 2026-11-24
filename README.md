@@ -4,9 +4,7 @@
 
 <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
 
-<p> <img width="436" height="314" alt="image" src="https://github.com/user-attachments/assets/c3f0381b-713b-4844-8f4a-4b8a52f8e65c" />
-
-</p>
+<p> <img width="436" height="314" alt="image" src="https://github.com/user-attachments/assets/c3f0381b-713b-4844-8f4a-4b8a52f8e65c" /></p>
 
 </div>
 
