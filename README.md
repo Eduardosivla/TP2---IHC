@@ -8,6 +8,8 @@
 
 </p>
 
+</div>
+
 ## 📚 Informações Acadêmicas
 
 * **Universidade:** Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)
