@@ -57,7 +57,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 </div>
 
-<!-- Adicione abaixo a imagem das cinco telas de onboarding da Versão B. -->
+<img width="1050" height="1180" alt="onboarding_melhorado" src="https://github.com/user-attachments/assets/e4b5cfc6-9cd7-4c4a-a0e2-d714ba63a6b2" />
+
 
 * **Descrição e Correspondência com o Modelo:** Apresenta a alternativa de organização do fluxo de boas-vindas, mantendo a finalidade de introduzir os principais recursos do YouTalking antes da utilização. Assim como na Versão A, o percurso contempla a apresentação do sistema, das possibilidades de comunicação por CAA, do pareamento entre dispositivos e do funcionamento sem conexão com a internet.
 * **Análise de Design:**
@@ -75,7 +76,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 </div>
 
-<!-- Adicione abaixo a imagem das cinco telas principais da Versão B. -->
+<img width="1050" height="1180" alt="wireframes_melhorado" src="https://github.com/user-attachments/assets/576f3f2a-717d-45e8-b947-8426324cfa26" />
+
 
 * **Descrição e Correspondência com o Modelo:** Reúne a alternativa de fluxo para entrada no aplicativo, criação de conta, definição do perfil de utilização, acesso à tela inicial CAA e pareamento por QR Code. A proposta mantém as principais etapas funcionais representadas na Versão A, mas apresenta diferenças na disposição dos elementos e na organização da navegação.
 * **Análise de Design:**
