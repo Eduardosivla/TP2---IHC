@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação, a equipe desenvolveu os esboços de telas em baixa fidelidade para representar o fluxo inicial do sistema. Além das telas individuais que compõem a jornada do utilizador, foram elaboradas **duas versões alternativas de fluxo e layout (Versão A e Versão B)** para comparar decisões de navegação, acessibilidade e comunicabilidade.
-
-</div>
 
 </div>
 
@@ -16,11 +12,7 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 <div align="justify">
 
-<div align="justify">
-
 *(Apresentação inicial dos recursos de CAA, pareamento por QR Code, tradução por IA e modo offline)*
-
-</div>
 
 </div>
 
@@ -36,11 +28,7 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 <div align="justify">
 
-<div align="justify">
-
 *(Alinhamento: **HTAs 01, 02 e 03** e **Fluxos 1, 2 e 3 do MoLIC**)*
-
-</div>
 
 </div>
 
@@ -56,21 +44,13 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 <div align="justify">
 
-<div align="justify">
-
 *(Evidência obrigatória de discussão entre alternativas de design)*
 
 </div>
 
-</div>
-
-<div align="justify">
-
 <div align="justify">
 
 Para validar a melhor organização visual e de navegação, a equipe prototipou duas variantes completas do fluxo de entrada e da tela principal:
-
-</div>
 
 </div>
 
