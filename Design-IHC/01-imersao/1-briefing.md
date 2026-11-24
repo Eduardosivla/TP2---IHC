@@ -81,7 +81,7 @@
 
 ### Demanda Inicial
 
-- **Motivação:** Necessidade de apoiar a comunicação cotidiana de Talisson Otto (8 anos, diagnosticado com TEA nível 2 de suporte aos 4 anos, após acompanhamento iniciado com 1 ano de idade). Embora consiga falar, ele frequentemente precisa que familiares interpretem ou traduzam o que deseja expressar, além de recorrer à estratégia física de conduzir o adulto até o local ou objeto desejado. Busca-se uma solução que torne suas mensagens visualmente claras para outras pessoas e estimule seu engajamento.
+- **Motivação:** Necessidade de apoiar a comunicação cotidiana da criança (8 anos, diagnosticado com TEA nível 2 de suporte aos 4 anos, após acompanhamento iniciado com 1 ano de idade). Embora consiga falar, ele frequentemente precisa que familiares interpretem ou traduzam o que deseja expressar, além de recorrer à estratégia física de conduzir o adulto até o local ou objeto desejado. Busca-se uma solução que torne suas mensagens visualmente claras para outras pessoas e estimule seu engajamento.
 
 <br>
 
