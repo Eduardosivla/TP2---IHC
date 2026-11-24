@@ -7,7 +7,7 @@
 - **Data:** 12/11/2026
 - **Local / Meio:**  Presencial
 - **Entrevistadores:** Endriyw Lucas
-- **Representante do Cliente:** Mãe de Talisson Otto (criança de 8 anos diagnosticada com Transtorno do Espectro Autista — TEA, nível 2 de suporte).
+- **Representante do Cliente:** Mãe de uma criança de 8 anos diagnosticada com Transtorno do Espectro Autista (TEA), nível 2 de suporte.
 
 <br>
 
