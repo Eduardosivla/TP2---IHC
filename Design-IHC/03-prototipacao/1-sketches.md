@@ -46,6 +46,44 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 * **Tela 04 — Tela Inicial (`Home CAA`):** Corresponde às cenas `Selecionar contexto` e `Opção de vocabulário` do MoLIC, reunindo barra de pesquisa, botão de pareamento por QR Code (`Comunique-se à distância`), sugestão automática por geolocalização (`Você parece estar em um restaurante...`), acesso rápido a `Rotinas salvas`, lista de `Contextos` (`Hospital`, `Restaurante`, `Transporte`, `Social`) e barra inferior (`Início`, `Prancha`, `Offline`, `Ajustes`).
 * **Tela 05 — Leitura de Código (`Escaneie o QR Code`):** Corresponde ao fluxo de pareamento do **HTA 03**, exibindo área centralizada da câmara com orientação objetiva (`Mantenha o QR Code dentro da área de leitura`).
 
+
+<br>
+
+### 1.3. Fluxo de Boas-Vindas e Introdução — Versão B (05 Telas) 👋
+
+<div align="justify">
+
+*(Apresentação alternativa do onboarding, com possibilidade de avançar diretamente para o acesso ao sistema)*
+
+</div>
+
+<!-- Adicione abaixo a imagem das cinco telas de onboarding da Versão B. -->
+
+* **Descrição e Correspondência com o Modelo:** Apresenta a alternativa de organização do fluxo de boas-vindas, mantendo a finalidade de introduzir os principais recursos do YouTalking antes da utilização. Assim como na Versão A, o percurso contempla a apresentação do sistema, das possibilidades de comunicação por CAA, do pareamento entre dispositivos e do funcionamento sem conexão com a internet.
+* **Análise de Design:**
+  * **Usabilidade:** A inclusão da opção `Pular` permite que utilizadores que já conhecem o aplicativo avancem diretamente, oferecendo maior autonomia. Por outro lado, essa possibilidade pode fazer com que novos utilizadores deixem de visualizar orientações importantes.
+  * **Comunicabilidade:** A apresentação sequencial procura explicar a proposta do aplicativo de maneira gradual, enquanto a opção de pular comunica que a etapa introdutória não é obrigatória.
+  * **Experiência do Usuário (UX):** A alternativa prioriza a flexibilidade e a rapidez de acesso, permitindo que diferentes perfis de utilizadores escolham como desejam iniciar a navegação.
+
+<br>
+
+### 1.4. Telas de Acesso, Cadastro, Perfil, Home CAA e Pareamento — Versão B (05 Telas) 🔐
+
+<div align="justify">
+
+*(Alternativa de organização das telas principais, com abas de autenticação e disposição dos contextos em grade)*
+
+</div>
+
+<!-- Adicione abaixo a imagem das cinco telas principais da Versão B. -->
+
+* **Descrição e Correspondência com o Modelo:** Reúne a alternativa de fluxo para entrada no aplicativo, criação de conta, definição do perfil de utilização, acesso à tela inicial CAA e pareamento por QR Code. A proposta mantém as principais etapas funcionais representadas na Versão A, mas apresenta diferenças na disposição dos elementos e na organização da navegação.
+* **Análise de Design:**
+  * **Usabilidade:** A utilização de abas superiores para alternar entre `Entrar` e `Criar conta` concentra as opções de autenticação em uma mesma área. Na Home CAA, a grade 2x2 organiza os contextos em uma composição mais compacta, acompanhada dos cartões de vocabulário geral e rotinas salvas.
+  * **Comunicabilidade:** As abas identificam diretamente as duas ações de autenticação, enquanto os cartões da tela inicial apresentam visualmente os contextos disponíveis. A proximidade entre diferentes opções, entretanto, pode exigir maior atenção para distinguir cada área.
+  * **Experiência do Usuário (UX):** A Versão B propõe uma interface mais compacta e uma navegação de acesso mais direta. Em contrapartida, a concentração de elementos e a redução da área dos cartões podem afetar a facilidade de interação, especialmente para pessoas que necessitam de alvos de toque maiores.
+
+
 <br>
 
 ## 2. Comparação e Validação de Versões Alternativas (Versão A vs. Versão B) ⚖️
