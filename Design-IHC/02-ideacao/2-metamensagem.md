@@ -2,7 +2,11 @@
 
 <div align="justify">
 
+<div align="justify">
+
 Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita transmitida pelos projetistas aos usuários por meio da interface, sintetizando quem são os usuários, o que desejam realizar e como o sistema deve ser utilizado.
+
+</div>
 
 </div>
 
@@ -12,7 +16,11 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
+<div align="justify">
+
 >
+
+</div>
 
 </div>
 
@@ -20,7 +28,11 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
+<div align="justify">
+
 >
+
+</div>
 
 </div>
 
@@ -28,7 +40,11 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 <div align="justify">
 
+<div align="justify">
+
 >
+
+</div>
 
 </div>
 
@@ -37,11 +53,8 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 ## 2. Legenda dos Elementos da Metamensagem 🗂️
 
 * 🟦 **1. Quem é o usuário:** Pessoas que necessitam compreender e interagir com usuários de Comunicação Aumentativa e Alternativa (CAA) no dia a dia.
-
 * 🟩 **2. O que quer/precisa fazer e formas que prefere:** Deseja aprimorar a comunicação entre pessoas com dificuldades expressivas e interlocutores que têm dificuldade de compreendê-las, por meio de ferramentas práticas, contextuais e aplicáveis no cotidiano.
-
 * 🟧 **3. Qual é a solução projetada:** Um aplicativo que apoia a interação com usuários de CAA oferecendo mensagens e respostas rápidas predefinidas, seleção de contexto/local específico, suporte offline, auxílio de Inteligência Artificial e planos gratuito e premium.
-
 * 🟪 **4. Formas de utilizar a solução:** Selecionar o contexto do ambiente, baixar pacotes para uso offline quando necessário e escolher entre a **versão gratuita** (funcionalidades básicas amplas) ou a **versão premium** (vantagens adicionais e uso ilimitado da IA).
 
 ## Para melhor vizualizar:
