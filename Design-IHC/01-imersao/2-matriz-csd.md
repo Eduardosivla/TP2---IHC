@@ -2,11 +2,7 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Após a realização do briefing com o representante do cliente, a equipe organizou as informações coletadas na Matriz CSD abaixo para distinguir os fatos já comprovados das hipóteses e lacunas que precisam ser investigadas com os usuários finais.
-
-</div>
 
 </div>
 
@@ -72,11 +68,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 
 <div align="justify">
 
-<div align="justify">
-
 As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em quatro eixos de investigação para guiar o roteiro de entrevistas e questionários na etapa seguinte (`3-pesquisa-com-usuario.md`):
-
-</div>
 
 </div>
 

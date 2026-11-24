@@ -1,18 +1,12 @@
 <div align="center">
 
-<div align="justify">
-
 <h1>YouTalking — Design de IHC (TP2) </h1>
-
-</div>
 
 <p><strong>Solução mobile voltada a facilitar a comunicação presencial entre usuários de Comunicação Aumentativa e Alternativa (CAA) e interlocutores não familiarizados com esses recursos em situações do cotidiano.</strong></p>
 
 <p> <img width="436" height="314" alt="image" src="https://github.com/user-attachments/assets/c3f0381b-713b-4844-8f4a-4b8a52f8e65c" />
 
 </p>
-
-</div>
 
 ## 📚 Informações Acadêmicas
 
@@ -34,15 +28,9 @@
 
 <div align="justify">
 
-<div align="justify">
-
 Pessoas que utilizam sistemas de Comunicação Aumentativa e Alternativa (CAA) frequentemente enfrentam barreiras ao interagir com atendentes, profissionais de saúde, motoristas e outras pessoas que desconhecem o significado dos pictogramas ou não sabem como responder.
 
 </div>
-
-</div>
-
-<div align="justify">
 
 <div align="justify">
 
@@ -50,13 +38,7 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 </div>
 
-</div>
-
-<div align="justify">
-
 <!-- ![Banner do Projeto](./assets/banner.png) -->
-
-</div>
 
 ## 🌎 Índice Navegável das Etapas
 
@@ -161,10 +143,6 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 <div align="justify">
 
-<div align="justify">
-
 A equipe utilizou ferramentas de Inteligência Artificial, como **Gemini** e **ChatGPT**, como apoio à organização estrutural dos arquivos Markdown, revisão gramatical e padronização dos textos da documentação conforme as diretrizes da disciplina. As ferramentas foram utilizadas estritamente como suporte técnico e editorial; todo o levantamento de dados reais, entrevistas, modelagens de tarefas e interação (CSD, PATHY, Mapa de Objetivos, HTAs e MoLIC) e decisões de design dos protótipos foram elaborados, revisados e validados pelos integrantes da equipe.
-
-</div>
 
 </div>
