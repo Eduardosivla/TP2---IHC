@@ -1,11 +1,7 @@
 # Matriz CSD (Certezas, Suposições e Dúvidas) 💡
 
 <p align="justify">
-
-<p align="justify">
 Após a realização do briefing com o representante do cliente, a equipe organizou as informações coletadas na Matriz CSD abaixo para distinguir os fatos já comprovados das hipóteses e lacunas que precisam ser investigadas com os usuários finais.
-</p>
-
 </p>
 
 <br>
@@ -81,11 +77,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 ## 3. Direcionamento para a Pesquisa com Usuários 🧷
 
 <p align="justify">
-
-<p align="justify">
 As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em quatro eixos de investigação para guiar o roteiro de entrevistas e questionários na etapa seguinte (`3-pesquisa-com-usuario.md`):
-</p>
-
 </p>
 
 1. **Perfil, Acessibilidade e Ecossistema Atual (`S8`, `D3`, `D4`, `D5`, `D10`):** Investigar quem são os usuários principais (crianças, adultos ou idosos), quais aplicativos e sistemas de pictogramas já utilizam e quais barreiras motoras, visuais ou de dispositivo enfrentam.
@@ -98,9 +90,5 @@ As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em qu
 ## Conclusão
 
 <p align="justify">
-
-<p align="justify">
 A Matriz CSD organizou o que já estava estabelecido no briefing, o que ainda precisava ser tratado como hipótese e quais perguntas deveriam orientar a investigação com usuários. O quadro também ajudou a delimitar a proposta inicial do MVP e a explicitar pontos que exigiam verificação, como o funcionamento offline, a dinâmica de uso em um ou dois dispositivos, o vocabulário por contexto, a acessibilidade e a privacidade. Assim, a matriz funcionou como instrumento de organização e direcionamento da pesquisa, sem transformar suposições em fatos confirmados.
-</p>
-
 </p>
