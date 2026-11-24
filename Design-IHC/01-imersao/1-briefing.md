@@ -149,8 +149,10 @@
 
 ## Conclusão
 
-<div align="justify">
+<p align="justify">
 
+<p align="justify">
 O briefing permitiu reunir a perspectiva inicial da representante do cliente e identificar situações em que a comunicação cotidiana exige apoio, além de prioridades para a solução proposta. Entre os pontos destacados estão a necessidade de tornar as mensagens compreensíveis para interlocutores que não conhecem CAA, contemplar necessidades imediatas e favorecer o engajamento por meio de recursos visuais e interativos. Como este registro parte de uma entrevista, seus achados devem ser entendidos como um levantamento inicial; o próprio documento indica a importância de aprofundar a validação com a família e com profissionais que acompanham a criança.
+</p>
 
-</div>
+</p>
