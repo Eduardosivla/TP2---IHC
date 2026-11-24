@@ -1,6 +1,6 @@
 # Pesquisa Complementar com Usuários 👥
 
----
+<br>
 
 ## 1. Metodologia e Perfil dos Participantes 🔍
 
@@ -15,9 +15,11 @@
 
 </div>
 
----
+<br>
 
 ## 2. Roteiro Utilizado 📝
+
+<br>
 
 ### 👤 Bloco A — Perfil, Contexto e Dificuldades Atuais (Base para PATHY: *Quem*, *Contexto* e *Problemas*)
 
@@ -27,6 +29,8 @@
 4. Em quais ambientes ou situações essas dificuldades de comunicação costumam acontecer com maior frequência?
 5. Como as pessoas que não conhecem a CAA geralmente reagem quando precisam interagir com alguém que utiliza pictogramas ou outros recursos de comunicação?
 
+<br>
+
 ### 🧩 Bloco B — Validação da Proposta e da Matriz CSD (Base para Matriz CSD: *Suposições* e *Dúvidas*)
 
 6. *(Investiga `S3` e `D8`)* Você acredita que a seleção de contextos, como escola, hospital, restaurante e transporte, poderia facilitar a comunicação dos alunos? Por quê?
@@ -34,15 +38,19 @@
 8. *(Investiga `S6`)* Como você avalia a possibilidade de o aluno confirmar, corrigir ou rejeitar a interpretação da outra pessoa, evitando possíveis mal-entendidos?
 9. *(Investiga `S5`)* Você considera importante que as mensagens também possam ser reproduzidas em áudio? Em quais situações esse recurso seria mais útil?
 
+<br>
+
 ### 💻 Bloco C — Acessibilidade, Funcionalidades e Benefícios (Base para PATHY: *Experiências* e *Soluções Existentes*)
 
 10. *(Investiga `S1`, `D2` e `D10`)* Quais características uma ferramenta como essa deveria apresentar para ser acessível e fácil de utilizar por alunos com diferentes necessidades?
 11. Quais funcionalidades você considera indispensáveis para o sistema? Existe alguma que não foi prevista na proposta e que deveria ser incluída?
 12. Na sua opinião, qual seria o principal benefício que esse sistema poderia proporcionar aos alunos? Você teria alguma sugestão para melhorar a proposta?
 
----
+<br>
 
 ## 3. Síntese das Principais Informações Obtidas 📊
+
+<br>
 
 ### ✅ Validação das Suposições e Dúvidas (Matriz CSD)
 
@@ -52,6 +60,8 @@
 - **`S5` [Confirmada] (Utilidade da reprodução em áudio):** O recurso de áudio foi avaliado como importante especialmente para crianças não verbais, com destaque para o uso na rotina em sala de aula e em momentos coletivos.
 - **`S6` [Parcialmente confirmada] (Confirmação, correção ou rejeição da interpretação):** Enquanto um profissional avaliou que o recurso tornaria a interação mais agradável, o outro ponderou que crianças não verbais costumam ser muito diretas quando conseguem se expressar, reduzindo a chance de mal-entendidos após o envio claro da mensagem.
 - **`D2` [Respondida] (Funcionamento sem internet):** Um dos entrevistados destacou explicitamente que o aplicativo **não deve depender exclusivamente da internet** para ser manuseado, validando a necessidade do modo offline.
+
+<br>
 
 ### 💡 Principais Padrões de Comportamento e Dores Identificados
 
@@ -68,7 +78,7 @@
 - **Saída de áudio** para apoiar a comunicação em momentos coletivos e rotinas escolares.
 - Mensagens diretas e funcionais voltadas às necessidades imediatas do cotidiano do aluno não verbal.
 
----
+<br>
 
 ## 4. Registro da Realização da Pesquisa 📸
 
@@ -76,7 +86,7 @@
 
 <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/22eaf512-f2cb-45be-b84b-a766a3b9bfbf" />
 
----
+<br>
 
 ## Conclusão
 

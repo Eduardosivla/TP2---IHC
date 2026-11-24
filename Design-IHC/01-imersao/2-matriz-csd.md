@@ -6,7 +6,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 
 </div>
 
----
+<br>
 
 ## 1. Visão Geral da Matriz 📝
 
@@ -26,9 +26,11 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 | — | — | **D10.** Que limitações dos dispositivos (tela, áudio, acessibilidade motora) podem afetar o uso? |
 | — | — | **D11.** Como medir na prática “maior compreensão” e “menos falhas”? |
 
----
+<br>
 
 ## 2. Detalhamento e Justificativa dos Pontos 📌
+
+<br>
 
 ### Certezas 💡
 
@@ -42,6 +44,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 - **C8 (Restrição de integração):** Confirmado como restrição técnica inicial — o MVP operará de forma independente, sem integrações externas definidas nesta primeira versão.
 - **C9 (Escopo de dados):** Delimitado no briefing quanto às informações manipuladas durante o fluxo de uso (mensagens selecionadas, respostas dos interlocutores, confirmações de entendimento e preferências de contexto).
 
+<br>
+
 ### Suposições 💭
 
 - **S1 (Uso predominante de smartphones/tablets):** A equipe parte da premissa de que dispositivos móveis pessoais (celular ou tablet) são o meio principal tanto do usuário de CAA quanto do interlocutor. Precisa ser confirmado com o público-alvo.
@@ -53,6 +57,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 - **S7 (Necessidade de cadastro/perfil):** Embora o registro de caracterização do usuário tenha sido citado na síntese inicial, a equipe trata como suposição a real necessidade de login/cadastro frente ao uso imediato.
 - **S8 (Heterogeneidade de perfis e adaptações):** Parte-se da hipótese de que perfis variados (idade, alfabetização e habilidade motora) exigirão diferentes níveis de adaptação na interface.
 - **S9 (Uso sob pressão e restrição de tempo):** Supõe-se que o aplicativo será usado em situações com pressa ou estresse (como atendimento em hospital e filas), exigindo interação rápida.
+
+<br>
 
 ### Dúvidas 🤔
 
@@ -68,7 +74,7 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 - **D10 (Restrições de hardware e acessibilidade):** Permite mapear que limitações dos dispositivos (tamanho de tela, volume de áudio, acessibilidade motora) podem afetar o uso.
 - **D11 (Métricas de sucesso da comunicação):** Necessário para definir como medir na prática os indicadores de “maior compreensão” e “menos falhas”.
 
----
+<br>
 
 ## 3. Direcionamento para a Pesquisa com Usuários 🧷
 
@@ -83,7 +89,7 @@ As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em qu
 3. **Conteúdo, Contextos e Reciprocidade (`S3`, `S4`, `D7`, `D8`):** Mapear as mensagens essenciais em restaurantes, hospitais, escolas e transportes, além de validar se respostas rápidas bastam ou se o interlocutor precisa de texto livre.
 4. **Acesso, Privacidade e Funcionamento Técnico (`S7`, `D1`, `D2`, `D9`, `D11`):** Avaliar a necessidade de cadastro/login, a importância do uso sem internet e os cuidados de privacidade e segurança em contextos de saúde, bem como formas de medir maior compreensão e redução de falhas.
 
----
+<br>
 
 ## Conclusão
 

@@ -6,7 +6,7 @@ Após a definição da metamensagem, a equipe construiu o **Mapa de Objetivos** 
 
 </div>
 
----
+<br>
 
 ## 1. Legenda de Papéis (Personas) 🏷️
 
@@ -26,15 +26,17 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 
 </div>
 
----
+<br>
 
 ## 2. Visão Geral do Mapa de Objetivos 🗺️
 
 <img width="7442" height="10521" alt="Mapa de Objetivos drawio_page-0001 (1)" src="https://github.com/user-attachments/assets/f75606fc-9422-4f01-8d6b-47e8aaf1e03c" />
 
----
+<br>
 
 ## 3. Detalhamento dos Objetivos por Grupo Funcional 🧩
+
+<br>
 
 ### 3.1. Gestão de Acesso e Autenticação
 
@@ -46,6 +48,8 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U | Alterar palavra-passe`
 * `U | Escolher tipo de perfil (Usuário CAA ou Interlocutor)`
 
+<br>
+
 ### 3.2. Navegação e Contextos (Home CAA)
 
 * **Objetivo Final:** `U-CAA | Acessar Contextos de Comunicação`
@@ -55,12 +59,16 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U-CAA | Selecionar vocabulário geral e rotinas salvas (favoritos)`
 * `U-CAA | Acessar Configurações e Perfil`
 
+<br>
+
 ### 3.3. Comunicação — Pareamento de Sessão (Modo Online / Duas Telas)
 
 * **Objetivo Final:** `U-CAA e U-INT | Estabelecer conexão pareada`
 * **Subobjetivos associados:**
 * `U-INT | Gerar o QR Code de sessão temporária`
 * `U-CAA | Escanear QR Code do dispositivo interlocutor`
+
+<br>
 
 ### 3.4. Comunicação Assistida por IA
 
@@ -72,6 +80,8 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U-INT | Gravar resposta natural por voz (Microfone)`
 * `U-CAA | Visualizar resposta traduzida em pictogramas (IA)`
 
+<br>
+
 ### 3.5. Comunicação de Contingência (Modo Offline / Tela Única)
 
 * **Objetivo Final:** `U-CAA e U-INT | Comunicar em Dispositivo Único`
@@ -80,6 +90,8 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U-CAA | Formular mensagem no dispositivo`
 * `U-CAA | Acionar interface física de interlocutor (Tela interlocutor)`
 * `U-INT | Fornecer feedback visual/tátil via botões de resposta rápida`
+
+<br>
 
 ### 3.6. Gerenciamento de Conta
 
@@ -90,7 +102,7 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U | Ajustar preferências de acessibilidade do sistema`
 * `U | Encerrar sessão (Logout)`
 
----
+<br>
 
 ## Conclusão
 

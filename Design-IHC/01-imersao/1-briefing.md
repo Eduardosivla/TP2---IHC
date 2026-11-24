@@ -1,6 +1,6 @@
 # Briefing com o Cliente 💡
 
----
+<br>
 
 ## 1. Informações Gerais da Reunião 🔍
 
@@ -9,9 +9,11 @@
 - **Entrevistadores:** Endriyw Lucas
 - **Representante do Cliente:** Mãe de Talisson Otto (criança de 8 anos diagnosticada com Transtorno do Espectro Autista — TEA, nível 2 de suporte).
 
----
+<br>
 
 ## 2. Roteiro Utilizado 📝
+
+<br>
 
 ### 1. Conhecendo a criança e sua rotina
 
@@ -20,12 +22,16 @@
 3. Ele utiliza alguma forma de comunicação alternativa, como gestos, imagens, pictogramas ou aplicativos?
 4. Em quais situações você percebe que ele consegue se comunicar com mais facilidade?
 
+<br>
+
 ### 2. Dificuldades de comunicação
 
 5. Quais são as maiores dificuldades que seu filho enfrenta para se comunicar com outras pessoas?
 6. Existem situações em que você percebe que ele tenta transmitir uma mensagem, mas as pessoas não conseguem compreendê-lo?
 7. Como ele reage quando não consegue ser compreendido?
 8. Quais situações costumam gerar mais dificuldades: consultas médicas, restaurantes, escola, estabelecimentos comerciais ou outros ambientes?
+
+<br>
 
 ### 3. Interação com outras pessoas
 
@@ -34,12 +40,16 @@
 11. O que geralmente acontece quando uma pessoa não entende o que seu filho está tentando expressar?
 12. O que poderia ajudar essas pessoas a compreender melhor a comunicação dele?
 
+<br>
+
 ### 4. Recursos e soluções existentes
 
 13. Vocês já utilizaram algum aplicativo ou recurso de Comunicação Aumentativa e Alternativa?
 14. Se sim, quais foram os benefícios e as dificuldades encontradas?
 15. Existe alguma situação em que os recursos utilizados atualmente não são suficientes?
 16. O que você sente falta nas ferramentas de comunicação disponíveis?
+
+<br>
 
 ### 5. Necessidades para uma nova ferramenta
 
@@ -48,6 +58,8 @@
 19. Você considera importante que o aplicativo se adapte a diferentes ambientes e situações?
 20. Quais características tornariam esse aplicativo simples e confortável para seu filho utilizar?
 
+<br>
+
 ### 6. Prioridades e avaliação
 
 21. Qual dificuldade de comunicação você gostaria que fosse resolvida primeiro?
@@ -55,23 +67,31 @@
 23. Existe alguma funcionalidade que você considera desnecessária ou que poderia dificultar a utilização?
 24. Há alguma necessidade ou experiência que não abordamos e que você considera importante compartilhar?
 
+<br>
+
 ### 7. Encerramento
 
 - Agradecimento pela disponibilidade e pela contribuição da entrevistada.
 
----
+<br>
 
 ## 3. Síntese das Informações Obtidas 📝
+
+<br>
 
 ### Demanda Inicial
 
 - **Motivação:** Necessidade de apoiar a comunicação cotidiana de Talisson Otto (8 anos, diagnosticado com TEA nível 2 de suporte aos 4 anos, após acompanhamento iniciado com 1 ano de idade). Embora consiga falar, ele frequentemente precisa que familiares interpretem ou traduzam o que deseja expressar, além de recorrer à estratégia física de conduzir o adulto até o local ou objeto desejado. Busca-se uma solução que torne suas mensagens visualmente claras para outras pessoas e estimule seu engajamento.
+
+<br>
 
 ### Público-Alvo (Para quem)
 
 - **Envolvidos e afetados:**
 - **Usuário principal (emissor):** Criança com TEA (8 anos, nível 2 de suporte), com interesse por jogos e por assistir ao jornal.
 - **Interlocutores e rede de apoio:** Mãe e familiares próximos, professores, outras crianças (colegas de brincadeira), atendentes e profissionais de saúde que interagem com ele em ambientes cotidianos.
+
+<br>
 
 ### Problemas Identificados
 
@@ -83,10 +103,14 @@
 - Falta de preparo de pessoas fora do convívio diário para compreender e interagir com crianças com necessidades comunicacionais atípicas.
 - Baixa adesão a aplicativos de CAA convencionais por falta de interesse da criança em interfaces pouco atrativas.
 
+<br>
+
 ### Prioridades do Cliente
 
 - **Prioridade máxima:** Facilitar a comunicação imediata quando a criança precisa solicitar para **ir ao banheiro**.
 - **Demais prioridades:** Expressar necessidades e desejos cotidianos (como machucados), melhorar a interação social e permitir que outras pessoas identifiquem visualmente o que ele deseja, contando também com opções de resposta visual simples por parte do interlocutor.
+
+<br>
 
 ### Fontes de Informação
 
@@ -94,14 +118,20 @@
 - Histórico de acompanhamento clínico e desenvolvimento da criança (investigação desde 1 ano de idade e diagnóstico aos 4 anos).
 - *(Observação: A mãe recomendou validar e aprofundar futuramente as necessidades junto à família e aos profissionais que acompanham a criança).*
 
+<br>
+
 ### Padrão Prévio
 
 - Atualmente, a família utiliza **apenas a comunicação oral (fala)** combinada com gestos indicativos da criança (levar o adulto até o objeto/local), sem nenhum recurso específico de CAA em uso.
 - Houve uma tentativa anterior com um aplicativo de comunicação alternativa, mas a ferramenta foi abandonada devido à falta de interesse da criança.
 
+<br>
+
 ### Contato Técnico
 
 - **Ponto focal:** Mãe da criança (entrevistada), responsável por mediar o dia a dia comunicativo e articular possível contato futuro com profissionais da área terapêutica ou escolar que acompanham o caso.
+
+<br>
 
 ### Restrições Conhecidas
 
@@ -109,13 +139,13 @@
 - **Adequação Contextual:** A comunicação precisa se adaptar a diferentes ambientes e situações (escola, casa, locais públicos) sem exigir treinamento prévio do interlocutor.
 - **Privacidade e Proteção de Dados (LGPD / ECA):** Por envolver dados sensíveis de saúde e a rotina de uma criança menor de idade, qualquer registro fotográfico ou evidência publicada no repositório deve preservar rigorosamente a identidade dos participantes.
 
----
+<br>
 
 ## 4. Registro da Realização da Reunião 📸
 
 <img width="828" height="532" alt="image" src="https://github.com/user-attachments/assets/98477e95-9811-4f4e-a68b-6327d51ab961" />
 
----
+<br>
 
 ## Conclusão
 

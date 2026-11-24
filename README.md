@@ -10,7 +10,7 @@
 
 </div>
 
----
+<br>
 
 ## 📚 Informações Acadêmicas
 
@@ -19,7 +19,7 @@
 * **Docente:** Prof. Dr. Andrey Rodrigues
 * **Atividade:** Trabalho Prático 2 (TP2) — Design de IHC
 
----
+<br>
 
 ## 👥 Integrantes da Equipe
 
@@ -30,7 +30,7 @@
 5. Endryw Silva Lucas
 6. Lucas Bina Paulo
 
----
+<br>
 
 ## 🧏🏻 Breve Apresentação do Sistema
 
@@ -48,15 +48,19 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 <!-- ![Banner do Projeto](./assets/banner.png) -->
 
----
+<br>
 
 ## 🌎 Índice Navegável das Etapas
+
+<br>
 
 ### 1. Imersão
 
 - [1. Briefing com o Cliente](Design-IHC/01-imersao/1-briefing.md)
 - [2. Matriz CSD](Design-IHC/01-imersao/2-matriz-csd.md)
 - [3. Pesquisa Complementar com Usuários](Design-IHC/01-imersao/3-pesquisa-com-usuario.md)
+
+<br>
 
 ### 2. Ideação
 
@@ -66,11 +70,13 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 - [4. Análise Hierárquica de Tarefas (HTAs)](Design-IHC/02-ideacao/4-htas.md)
 - [5. Diagramas de Interação (MoLIC)](Design-IHC/02-ideacao/5-molic.md)
 
+<br>
+
 ### 3. Prototipação
 
 - [1. Protótipos de Baixa Fidelidade (Sketches)](Design-IHC/03-prototipacao/1-sketches.md)
 
----
+<br>
 
 ## 📌 Organização do Repositório
 
@@ -132,7 +138,7 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 
 ```
 
----
+<br>
 
 ## 📋 Resumo das Etapas e Atividades Realizadas
 
@@ -140,7 +146,7 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 * **02. Ideação (Personas, Metamensagem, Mapa de Objetivos, HTAs e MoLIC):** Elaboração de três personas pela técnica PATHY contemplando usuários com necessidades de acessibilidade (**José Felipe** e **Beatriz Almeida**) e interlocutora leiga (**Fernanda Lima**); definição da metamensagem sob a ótica da Engenharia Semiótica; estruturação visual dos objetivos no Mapa de Objetivos; modelagem hierárquica de 06 tarefas principais nos HTAs; e representação conversacional completa da interação via diagramas MoLIC.
 * **03. Prototipação (Protótipos de Baixa Fidelidade — Sketches):** Criação de esboços de baixa fidelidade para os fluxos essenciais do sistema (Onboarding, Autenticação, Escolha de Perfil, Home CAA e Pareamento via QR Code), incluindo a avaliação comparativa entre duas versões alternativas (**Versão A** e **Versão B**) para validar usabilidade, comunicabilidade e experiência do usuário (UX).
 
----
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
@@ -150,14 +156,14 @@ O **YouTalking** atua como uma ponte comunicativa rápida para o "outro lado da 
 * **Modelagem de Diagramas (Mapa de Objetivos, HTAs e MoLIC):** Draw.io
 * **Prototipação de Baixa Fidelidade (Sketches):** Miro e Draw.io
 
----
+<br>
 
 ## 📌 Observações Gerais
 
 * Todos os registros fotográficos, relatos de entrevista e evidências de pesquisa foram devidamente anonimizados para preservar a identidade e a privacidade dos participantes, em especial por envolver contextos de saúde e menores de idade.
 * A ata detalhada de participação individual da equipe, contendo o cronograma e as entregas de cada integrante, foi enviada separadamente em formato PDF diretamente pelo Google Classroom, conforme exigido no enunciado da disciplina.
 
----
+<br>
 
 ## 🤖 Declaração de Uso de Inteligência Artificial
 
@@ -167,7 +173,7 @@ A equipe utilizou ferramentas de Inteligência Artificial, como **Gemini** e **C
 
 </div>
 
----
+<br>
 
 ## Conclusão Geral
 

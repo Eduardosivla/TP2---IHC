@@ -6,15 +6,21 @@ Com base nos dados levantados na etapa de imersão (briefing, Matriz CSD e pesqu
 
 </div>
 
----
+<br>
 
 ## 1. Persona 1 — José Felipe (Usuário de CAA / Acessibilidade) ♿
 
 <img width="1222" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b2acf0d-ca49-45ea-80d6-7221186a801b" />
 
+<br>
+
 ###  **Nome:** José Felipe
 
+<br>
+
 ###  **Idade:** 19 anos
+
+<br>
 
 ### 👤 Quem
 
@@ -24,6 +30,8 @@ José Felipe é um jovem autista não verbal, que mora em Itacoatiara com a mãe
 
 </div>
 
+<br>
+
 ### 🌍 Contexto
 
 <div align="justify">
@@ -32,12 +40,16 @@ Possui uma rotina previsível que inclui música, desenho e passeios. Utiliza CA
 
 </div>
 
+<br>
+
 ### 💻 Experiência Prévia
 
 * **E1:** Usa aplicativo de CAA com pictogramas há 3 anos para montar frases do dia a dia.
 * **E2:** Já tentou mostrar a tela do celular para atendentes, mas eles não entenderam os pictogramas, não esperaram ele tentar explicar e se direcionaram diretamente à mãe dele.
 * **E3:** Prefere ambientes com rotina previsível; em lugares novos fica ansioso e demora mais para montar a mensagem, precisando de respostas rápidas e predefinidas.
 * **E4:** Sente-se mais seguro quando o aplicativo oferece feedback visual, como confirmar na tela *"mensagem enviada"* ou *"a pessoa entendeu"*.
+
+<br>
 
 ### 🧩 Problemas / Necessidades / Desejos
 
@@ -47,21 +59,29 @@ Possui uma rotina previsível que inclui música, desenho e passeios. Utiliza CA
 * **P4:** Deseja ter autonomia para se comunicar em qualquer ambiente, sem depender de uma terceira pessoa como tradutora.
 * **P5:** Deseja que o aplicativo funcione sem internet, com interface simples, poucos passos e sem travar no meio da conversa.
 
+<br>
+
 ### 🛠️ Soluções Existentes
 
 * **S1:** Usa aplicativo de pictogramas, mas ele auxilia apenas o emissor — não possui modo interlocutor nem ajuda quem não conhece CAA a entender e responder.
 * **S2:** Usa o aplicativo *LetMeTalk*, também de pictogramas, que funciona offline, mas possui muitas categorias na interface e confunde em ambientes que exigem agilidade.
 * **S3:** Usa gestos, apontar e expressões faciais para se comunicar; funciona com a mãe e pessoas próximas, mas falha totalmente com desconhecidos.
 
----
+<br>
 
 ## 2. Persona 2 — Fernanda Lima (Interlocutora Leiga em CAA) 🍽️
 
 <img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/68ba893a-150b-42f2-ada5-bbea47efc8ad" />
 
+<br>
+
 ### **Nome:** Fernanda Lima
 
+<br>
+
 ### **Idade:** 27 anos
+
+<br>
 
 ### 👤 Quem
 
@@ -71,6 +91,8 @@ Fernanda Lima é atendente de restaurante em Itacoatiara e trabalha no horário 
 
 </div>
 
+<br>
+
 ### 🌍 Contexto
 
 <div align="justify">
@@ -78,6 +100,8 @@ Fernanda Lima é atendente de restaurante em Itacoatiara e trabalha no horário 
 Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mostrava a tela do celular com pictogramas, travava, não sabia se podia tocar na tela ou se devia esperar, acabando por falar direto com o acompanhante para resolver mais rápido devido à fila e à pressão do trabalho. Precisa de uma interface simples que mostre em poucos segundos o que a pessoa quer, com áudio e botões claros de resposta.
 
 </div>
+
+<br>
 
 ### 💻 Experiência Prévia
 
@@ -87,6 +111,8 @@ Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mos
 * **E4:** Aprende melhor vendo um exemplo rápido na própria tela em vez de ler manuais; gosta de botões grandes e feedback visual (ex.: *"você entendeu? SIM / NÃO"*).
 * **E5:** Nunca fez curso sobre acessibilidade ou CAA, pois o tema nunca foi abordado na escola ou no trabalho.
 
+<br>
+
 ### 🧩 Problemas / Necessidades / Desejos
 
 * **P1:** Possui dificuldade em entender pessoas que usam CAA, pois não reconhece pictogramas nem sabe como responder, gerando frustração para ambos os lados.
@@ -95,6 +121,8 @@ Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mos
 * **P4:** Deseja ajudar de verdade e quer um modo interlocutor que traduza o pictograma para texto e áudio em linguagem simples, mostrando como responder.
 * **P5:** Deseja confirmação de entendimento para saber se compreendeu corretamente e evitar erros no pedido, na medicação ou na orientação.
 
+<br>
+
 ### 🛠️ Soluções Existentes[cite: 31]
 
 * **S1:** Pede para o acompanhante traduzir quando não entende — resolve rápido, mas exclui o usuário de CAA da conversa.
@@ -102,15 +130,21 @@ Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mos
 * **S3:** Já tentou usar o Google Tradutor com voz, mas o cliente não consegue falar e o aplicativo não oferece pictogramas nem frases predefinidas por contexto.
 * **S4:** O restaurante possui cardápio com fotos, mas não conta com orientações sobre como atender pessoas que usam CAA nem recursos de acessibilidade.
 
----
+<br>
 
 ## 3. Persona 3 — Beatriz Almeida (Usuária Adulta Autônoma / Acessibilidade) ♿
 
 <img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7724ff8-2bfd-4e5e-b140-2f676ee2691c" />
 
+<br>
+
 ### **Nome:** Beatriz Almeida
 
+<br>
+
 ### **Idade:** 32 anos
+
+<br>
 
 ### 👤 Quem
 
@@ -120,6 +154,8 @@ Beatriz Almeida é uma mulher muda, mas não surda: ouve perfeitamente e entende
 
 </div>
 
+<br>
+
 ### 🌍 Contexto
 
 <div align="justify">
@@ -128,12 +164,16 @@ Utiliza o aplicativo em contextos sociais sem acompanhante para falar por ela: n
 
 </div>
 
+<br>
+
 ### 💻 Experiência com Tecnologia
 
 * **E1:** Usa o celular para tudo (WhatsApp, Instagram e aplicativos bancários) e rejeita interfaces confusas com muitos passos.
 * **E2:** Usa aplicativo de CAA com pranchas de pictogramas há 2 anos, mas ele auxilia apenas a montar a frase, sem ajudar o interlocutor a responder.
 * **E3:** Aprende explorando o próprio aparelho e não gosta de ler manuais.
 * **E4:** Já ficou sem internet em hospitais e mercados, por isso precisa que o aplicativo funcione offline e seja leve.
+
+<br>
 
 ### 🧩 Problemas / Necessidades / Desejos
 
@@ -142,6 +182,8 @@ Utiliza o aplicativo em contextos sociais sem acompanhante para falar por ela: n
 * **P3:** Sente perda de independência quando precisa pedir a desconhecidos na fila ou no restaurante para traduzirem o que deseja.
 * **P4:** Os aplicativos atuais não oferecem confirmação mútua de entendimento entre emissor e interlocutor, aumentando falhas de comunicação em locais com pressa.
 
+<br>
+
 ### 🛠️ Soluções Existentes
 
 * **S1:** Usa aplicativo de prancha de pictogramas para montar a frase e mostrar a tela, mas o interlocutor leigo não entende os símbolos nem sabe responder.
@@ -149,7 +191,7 @@ Utiliza o aplicativo em contextos sociais sem acompanhante para falar por ela: n
 * **S3:** Usa gestos e aponta para produtos/cardápio, mas falha ao explicar dor, sintomas ou trocas de pedido, gerando mal-entendidos.
 * **S4:** Já pediu ajuda a desconhecidos na fila para traduzir, o que resolve pontualmente, mas compromete a autonomia que ela tanto preza.
 
----
+<br>
 
 ## Conclusão
 

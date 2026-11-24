@@ -6,17 +6,17 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 
 </div>
 
----
+<br>
 
 ## Visão Geral do Diagrama MoLIC Completo 🌐
 
 <img width="6229" height="1752" alt="image" src="https://github.com/user-attachments/assets/6d067ad3-e507-4270-8250-98c5dc8be3fc" />
 
----
+<br>
 
 ## Detalhamento do Diagrama por Fluxos Ampliados 🔍
 
----
+<br>
 
 ### Fluxo 1 — Autenticação, Criação de Conta e Escolha de Perfil (HTA 01) 🔐
 
@@ -28,7 +28,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Cena `Criar conta` e Cena `Ver email`:** O utilizador informa nome, e-mail e senha (`u: inserir dados`). Caso o sistema detete erro, ocorre a transição de ruptura `d: email inválido`. Com os dados validados (`u: dados inseridos`), segue para a cena `Ver email` (abrir e-mail e aceder ao link) e para a cena `Perfil de usuário` (`XOR` entre **Usuário CAA** e **Interlocutor**).
 * **Cena `Acessar conta`, `Logar com email` e `Senha esquecida`:** O utilizador escolhe entre conta Google ou e-mail (`XOR`). Na cena `Logar com email`, pode regressar (`u: mudou de método`), seguir para validação (`d: validar email`) ou acionar a recuperação (`u: esqueceu a senha`), que conduz à cena `Senha esquecida` e retorna à tela de acesso após redefinição (`senha criada`).
 
----
+<br>
 
 ### Fluxo 2 — Navegação e Seleção de Contextos (HTA 02) 🧭
 
@@ -40,7 +40,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Cena `Contexto sugerido por localização` e Cena `Interagir com contexto`:** Caso opte pela sugestão automática (`u: contexto via localidade`), visualiza o cartão do local sugerido. Caso pesquise manualmente (`u: pesquisa o contexto`), o sistema verifica a existência do termo, exibindo a ruptura `d: contexto não achado` em caso de falha ou avançando (`u: contexto encontrado`) para a seleção do ambiente (ex.: restaurante, hospital).
 * **Cena `Opção de vocabulário`:** Após confirmar o ambiente (`u: contexto selecionado`), o utilizador escolhe (`XOR`) entre **vocabulário geral** ou **rotinas salvas** (`u: opção de vocabulário definida`), acedendo à prancha correspondente (`d: acesso a seção definida`).
 
----
+<br>
 
 ### Fluxo 3 — Pareamento de Sessão e Contingência Offline (HTA 03) 📲
 
@@ -51,7 +51,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Processamento de Pareamento $\rightarrow$ Cena `Leitura do CAA`:** A partir de `d: pareamento da sessão`, o sistema gera o código (`d: QR code gerado`) e exibe-o na cena `Leitura do CAA`, aguardando a leitura pelo dispositivo do Usuário CAA para abrir o chat partilhado (`u: entrou no chat`).
 * **Rupturas para a Cena `Modo offline`:** Caso ocorra falha de conexão ou demora na leitura (`d: tempo de espera expirou`), uma transição pontilhada redireciona o interlocutor para a cena `Modo offline` (tela de respostas rápidas/textos), permitindo também sair desse modo (`u: sair do modo offline`).
 
----
+<br>
 
 ### Fluxo 4 — Comunicação Bidirecional Assistida por IA (HTA 04) 🤖
 
@@ -63,7 +63,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Cena `Ler a mensagem` e Cena `Gravar a resposta`:** O interlocutor recebe a mensagem (`d: recebe a mensagem`) e escolhe (`XOR`) entre leitura por texto ou por voz. Em seguida, acede à cena `Gravar a resposta`, fala pelo microfone e confirma o áudio (`u: confirma o audio`).
 * **Processamento da IA $\rightarrow$ Cena `Ver os Pictogramas`:** O sistema converte a fala em símbolos (`d: a IA cria pictogramas baseados na fala`) e apresenta-os ao Usuário CAA, fechando o ciclo (`d: mensagem emitida`) para novas interações.
 
----
+<br>
 
 ### Fluxo 5 — Comunicação de Contingência em Tela Única (HTA 05) 📴
 
@@ -75,7 +75,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Cena `Enviar mensagem do usuario CAA`:** O emissor escolhe os pictogramas locais, valida a sequência e toca em *"Pronto"* (`u: manda mensagem`).
 * **Cena `Recebe mensagem` $\rightarrow$ Cena `Receber pictogramas`:** No mesmo aparelho (`d: recebe mensagem`), o interlocutor lê os pictogramas, escolhe uma resposta rápida predefinida e toca em *"Pronto"* (`u: confirmar envio`), permitindo que o sistema exiba a resposta em pictogramas (`d: transformar em pictogramas`) para o feedback final do Usuário CAA.
 
----
+<br>
 
 ### Fluxo 6 — Gerenciamento de Perfil, Acessibilidade e Saída (HTA 06) ⚙️
 
@@ -88,7 +88,7 @@ Após a modelagem das tarefas nos HTAs, a equipa representou a interação entre
 * **Cena `Acessibilidade do sistema` $\rightarrow$ Cena `Definições de acessibilidade`:** Permite configurar tamanho de fonte/pictogramas, contraste, velocidade e tom da voz TTS (`definiu as configurações`).
 * **Cena `Sair do sistema` $\rightarrow$ Ponto de Encerramento:** Ao tocar em *"sair/deslogar"*, finaliza a sessão e encerra o diagrama.
 
----
+<br>
 
 ## Conclusão
 

@@ -6,7 +6,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 </div>
 
----
+<br>
 
 ## 1. Metamensagem do YouTalking 💡
 
@@ -36,7 +36,7 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 > *Com o **YouTalking**, a comunicação entre pessoas neurotípicas e neurodivergentes não precisa ter barreiras nem complexidade. Qualquer que seja a dificuldade comunicativa, nosso aplicativo — junto à nossa equipe — estará aqui para quebrar essas barreiras interativas e aproximar pessoas."*
 
----
+<br>
 
 ## 2. Legenda dos Elementos da Metamensagem 🗂️
 
@@ -45,13 +45,13 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 * 🟧 **3. Qual é a solução projetada:** Um aplicativo que apoia a interação com usuários de CAA oferecendo mensagens e respostas rápidas predefinidas, seleção de contexto/local específico, suporte offline, auxílio de Inteligência Artificial e planos gratuito e premium.
 * 🟪 **4. Formas de utilizar a solução:** Selecionar o contexto do ambiente, baixar pacotes para uso offline quando necessário e escolher entre a **versão gratuita** (funcionalidades básicas amplas) ou a **versão premium** (vantagens adicionais e uso ilimitado da IA).
 
----
+<br>
 
 ## Para melhor vizualizar:
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9ed9d66b-4912-4440-ba2a-3fe03ca8cb07" />
 
----
+<br>
 
 ## Conclusão
 
