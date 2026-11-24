@@ -9,11 +9,13 @@
 - **Quantidade de participantes:** 2 profissionais entrevistados(as)
 - **Critério de seleção:** Profissionais com atuação na área de Educação Especial e Inclusiva (entre 5 e 6 anos de experiência) que acompanham diretamente alunos não verbais ou com dificuldades na comunicação verbal e no uso de CAA.
 
-<div align="justify">
+<p align="justify">
 
+<p align="justify">
 [Planilha dos Resultados obtidos](https://docs.google.com/spreadsheets/d/1YfjWMCJXHmnDMkUyDbZb0F1OQk2SX8mBtuJlGYLVDN0/edit?usp=sharing)
+</p>
 
-</div>
+</p>
 
 <br>
 
@@ -90,8 +92,10 @@
 
 ## Conclusão
 
-<div align="justify">
+<p align="justify">
 
+<p align="justify">
 A pesquisa complementar trouxe contribuições de dois profissionais da Educação Especial e Inclusiva para examinar hipóteses levantadas na Matriz CSD. As respostas apontaram utilidade para a organização por contextos, as respostas rápidas, a reprodução em áudio e a disponibilidade de recursos offline; a hipótese sobre confirmação, correção ou rejeição da interpretação recebeu apoio apenas parcial. Como participaram duas pessoas e o levantamento foi feito com profissionais, os resultados oferecem indicações exploratórias, não uma validação representativa de todos os usuários de CAA. Eles ajudam a orientar o projeto, mas não dispensam avaliações posteriores com os diferentes públicos envolvidos.
+</p>
 
-</div>
+</p>
