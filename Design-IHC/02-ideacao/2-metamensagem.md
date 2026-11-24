@@ -6,6 +6,8 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 </div>
 
+---
+
 ## 1. Metamensagem do YouTalking 💡
 
 > *"Caro(a) usuário(a) do aplicativo **YouTalking**, eu entendi que você está enfrentando 🟦 **dificuldades para se comunicar com pessoas que dependem da CAA (Comunicação Aumentativa e Alternativa)**. Sabemos que você deseja 🟩 **melhorar a interação com essas pessoas para auxiliá-las e compreendê-las de modo eficaz e preciso**.*
@@ -34,6 +36,8 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 
 > *Com o **YouTalking**, a comunicação entre pessoas neurotípicas e neurodivergentes não precisa ter barreiras nem complexidade. Qualquer que seja a dificuldade comunicativa, nosso aplicativo — junto à nossa equipe — estará aqui para quebrar essas barreiras interativas e aproximar pessoas."*
 
+---
+
 ## 2. Legenda dos Elementos da Metamensagem 🗂️
 
 * 🟦 **1. Quem é o usuário:** Pessoas que necessitam compreender e interagir com usuários de Comunicação Aumentativa e Alternativa (CAA) no dia a dia.
@@ -41,6 +45,18 @@ Na Engenharia Semiótica, a **metamensagem** expressa a comunicação implícita
 * 🟧 **3. Qual é a solução projetada:** Um aplicativo que apoia a interação com usuários de CAA oferecendo mensagens e respostas rápidas predefinidas, seleção de contexto/local específico, suporte offline, auxílio de Inteligência Artificial e planos gratuito e premium.
 * 🟪 **4. Formas de utilizar a solução:** Selecionar o contexto do ambiente, baixar pacotes para uso offline quando necessário e escolher entre a **versão gratuita** (funcionalidades básicas amplas) ou a **versão premium** (vantagens adicionais e uso ilimitado da IA).
 
+---
+
 ## Para melhor vizualizar:
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/9ed9d66b-4912-4440-ba2a-3fe03ca8cb07" />
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+A metamensagem explicita a comunicação que o YouTalking pretende estabelecer com seus usuários: oferecer apoio à interação entre pessoas que utilizam CAA e interlocutores que não dominam esses recursos. A seleção de contexto, as mensagens e respostas predefinidas, o apoio de IA e a possibilidade de uso offline compõem a proposta apresentada; o texto também descreve modalidades gratuita e premium. Essa formulação registra a intenção e o posicionamento concebidos pela equipe, mas não comprova, por si só, a validação da experiência, da viabilidade técnica ou do modelo comercial.
+
+</div>

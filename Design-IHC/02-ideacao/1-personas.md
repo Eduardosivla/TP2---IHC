@@ -6,6 +6,8 @@ Com base nos dados levantados na etapa de imersão (briefing, Matriz CSD e pesqu
 
 </div>
 
+---
+
 ## 1. Persona 1 — José Felipe (Usuário de CAA / Acessibilidade) ♿
 
 <img width="1222" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b2acf0d-ca49-45ea-80d6-7221186a801b" />
@@ -50,6 +52,8 @@ Possui uma rotina previsível que inclui música, desenho e passeios. Utiliza CA
 * **S1:** Usa aplicativo de pictogramas, mas ele auxilia apenas o emissor — não possui modo interlocutor nem ajuda quem não conhece CAA a entender e responder.
 * **S2:** Usa o aplicativo *LetMeTalk*, também de pictogramas, que funciona offline, mas possui muitas categorias na interface e confunde em ambientes que exigem agilidade.
 * **S3:** Usa gestos, apontar e expressões faciais para se comunicar; funciona com a mãe e pessoas próximas, mas falha totalmente com desconhecidos.
+
+---
 
 ## 2. Persona 2 — Fernanda Lima (Interlocutora Leiga em CAA) 🍽️
 
@@ -98,6 +102,8 @@ Já atendeu pessoas que usam CAA, mas não sabia como agir. Quando o cliente mos
 * **S3:** Já tentou usar o Google Tradutor com voz, mas o cliente não consegue falar e o aplicativo não oferece pictogramas nem frases predefinidas por contexto.
 * **S4:** O restaurante possui cardápio com fotos, mas não conta com orientações sobre como atender pessoas que usam CAA nem recursos de acessibilidade.
 
+---
+
 ## 3. Persona 3 — Beatriz Almeida (Usuária Adulta Autônoma / Acessibilidade) ♿
 
 <img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7724ff8-2bfd-4e5e-b140-2f676ee2691c" />
@@ -142,3 +148,13 @@ Utiliza o aplicativo em contextos sociais sem acompanhante para falar por ela: n
 * **S2:** Já usou bloco de notas para digitar solicitações; funciona quando está calma, mas torna-se lento e estressante em hospitais e restaurantes movimentados.
 * **S3:** Usa gestos e aponta para produtos/cardápio, mas falha ao explicar dor, sintomas ou trocas de pedido, gerando mal-entendidos.
 * **S4:** Já pediu ajuda a desconhecidos na fila para traduzir, o que resolve pontualmente, mas compromete a autonomia que ela tanto preza.
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+As três personas sintetizam papéis e necessidades distintos considerados no projeto: duas perspectivas de pessoas que utilizam CAA e a de uma interlocutora leiga. Em conjunto, os perfis evidenciam desafios relacionados à compreensão dos pictogramas, à reciprocidade da conversa, à autonomia e à rapidez de uso em diferentes contextos. Essas representações oferecem referências para orientar decisões de interface e funcionalidades, mas devem ser entendidas como instrumentos de projeto construídos a partir da etapa de imersão, e não como descrições universais de todas as pessoas que utilizam CAA ou de todos os interlocutores.
+
+</div>

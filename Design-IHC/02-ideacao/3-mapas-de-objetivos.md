@@ -6,6 +6,8 @@ Após a definição da metamensagem, a equipe construiu o **Mapa de Objetivos** 
 
 </div>
 
+---
+
 ## 1. Legenda de Papéis (Personas) 🏷️
 
 <div align="justify">
@@ -24,9 +26,13 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 
 </div>
 
+---
+
 ## 2. Visão Geral do Mapa de Objetivos 🗺️
 
 <img width="7442" height="10521" alt="Mapa de Objetivos drawio_page-0001 (1)" src="https://github.com/user-attachments/assets/f75606fc-9422-4f01-8d6b-47e8aaf1e03c" />
+
+---
 
 ## 3. Detalhamento dos Objetivos por Grupo Funcional 🧩
 
@@ -83,3 +89,13 @@ Para manter a rastreabilidade com as personas definidas na etapa anterior e segu
 * `U | Atualizar informações pessoais (Nome, e-mail)`
 * `U | Ajustar preferências de acessibilidade do sistema`
 * `U | Encerrar sessão (Logout)`
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+O Mapa de Objetivos organiza as metas dos diferentes papéis em seis grupos funcionais, abrangendo acesso e autenticação, navegação por contextos, pareamento, comunicação bidirecional assistida por IA, contingência offline em dispositivo único e gerenciamento de conta. Ao decompor cada objetivo final em subobjetivos, o mapa torna mais clara a relação entre as necessidades dos perfis e as funcionalidades previstas. Essa estrutura serve como referência para o detalhamento das tarefas nos HTAs; ela representa a organização dos objetivos do sistema, não uma sequência operacional completa.
+
+</div>

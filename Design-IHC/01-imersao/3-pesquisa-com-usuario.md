@@ -1,5 +1,7 @@
 # Pesquisa Complementar com Usuários 👥
 
+---
+
 ## 1. Metodologia e Perfil dos Participantes 🔍
 
 - **Técnica utilizada:** [Formulário online via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeqNJVte7gcZqgjoxhqdn5hvJjxj2Tk0dr-xSJX8WmwWyQcbw/viewform?usp=header)
@@ -12,6 +14,8 @@
 [Planilha dos Resultados obtidos](https://docs.google.com/spreadsheets/d/1YfjWMCJXHmnDMkUyDbZb0F1OQk2SX8mBtuJlGYLVDN0/edit?usp=sharing)
 
 </div>
+
+---
 
 ## 2. Roteiro Utilizado 📝
 
@@ -35,6 +39,8 @@
 10. *(Investiga `S1`, `D2` e `D10`)* Quais características uma ferramenta como essa deveria apresentar para ser acessível e fácil de utilizar por alunos com diferentes necessidades?
 11. Quais funcionalidades você considera indispensáveis para o sistema? Existe alguma que não foi prevista na proposta e que deveria ser incluída?
 12. Na sua opinião, qual seria o principal benefício que esse sistema poderia proporcionar aos alunos? Você teria alguma sugestão para melhorar a proposta?
+
+---
 
 ## 3. Síntese das Principais Informações Obtidas 📊
 
@@ -62,8 +68,20 @@
 - **Saída de áudio** para apoiar a comunicação em momentos coletivos e rotinas escolares.
 - Mensagens diretas e funcionais voltadas às necessidades imediatas do cotidiano do aluno não verbal.
 
+---
+
 ## 4. Registro da Realização da Pesquisa 📸
 
 <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/ea77eb3c-9176-45c2-a982-06b33e35e042" />
 
 <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/22eaf512-f2cb-45be-b84b-a766a3b9bfbf" />
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+A pesquisa complementar trouxe contribuições de dois profissionais da Educação Especial e Inclusiva para examinar hipóteses levantadas na Matriz CSD. As respostas apontaram utilidade para a organização por contextos, as respostas rápidas, a reprodução em áudio e a disponibilidade de recursos offline; a hipótese sobre confirmação, correção ou rejeição da interpretação recebeu apoio apenas parcial. Como participaram duas pessoas e o levantamento foi feito com profissionais, os resultados oferecem indicações exploratórias, não uma validação representativa de todos os usuários de CAA. Eles ajudam a orientar o projeto, mas não dispensam avaliações posteriores com os diferentes públicos envolvidos.
+
+</div>

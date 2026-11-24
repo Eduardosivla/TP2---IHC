@@ -1,11 +1,15 @@
 # Briefing com o Cliente 💡
 
+---
+
 ## 1. Informações Gerais da Reunião 🔍
 
 - **Data:** 12/11/2026
 - **Local / Meio:**  Presencial
 - **Entrevistadores:** Endriyw Lucas
 - **Representante do Cliente:** Mãe de Talisson Otto (criança de 8 anos diagnosticada com Transtorno do Espectro Autista — TEA, nível 2 de suporte).
+
+---
 
 ## 2. Roteiro Utilizado 📝
 
@@ -55,6 +59,8 @@
 
 - Agradecimento pela disponibilidade e pela contribuição da entrevistada.
 
+---
+
 ## 3. Síntese das Informações Obtidas 📝
 
 ### Demanda Inicial
@@ -103,6 +109,18 @@
 - **Adequação Contextual:** A comunicação precisa se adaptar a diferentes ambientes e situações (escola, casa, locais públicos) sem exigir treinamento prévio do interlocutor.
 - **Privacidade e Proteção de Dados (LGPD / ECA):** Por envolver dados sensíveis de saúde e a rotina de uma criança menor de idade, qualquer registro fotográfico ou evidência publicada no repositório deve preservar rigorosamente a identidade dos participantes.
 
+---
+
 ## 4. Registro da Realização da Reunião 📸
 
 <img width="828" height="532" alt="image" src="https://github.com/user-attachments/assets/98477e95-9811-4f4e-a68b-6327d51ab961" />
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+O briefing permitiu reunir a perspectiva inicial da representante do cliente e identificar situações em que a comunicação cotidiana exige apoio, além de prioridades para a solução proposta. Entre os pontos destacados estão a necessidade de tornar as mensagens compreensíveis para interlocutores que não conhecem CAA, contemplar necessidades imediatas e favorecer o engajamento por meio de recursos visuais e interativos. Como este registro parte de uma entrevista, seus achados devem ser entendidos como um levantamento inicial; o próprio documento indica a importância de aprofundar a validação com a família e com profissionais que acompanham a criança.
+
+</div>

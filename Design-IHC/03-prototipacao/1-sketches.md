@@ -6,6 +6,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 
 </div>
 
+---
+
 ## 1. Visão Geral das Telas Projetadas 📱
 
 ### 1.1. Fluxo de Boas-Vindas e Introdução (Onboarding — 05 Telas) 👋
@@ -40,6 +42,8 @@ Com base nos diagramas **MoLIC** e nos **HTAs** definidos na etapa de ideação,
 * **Tela 04 — Tela Inicial (`Home CAA`):** Corresponde às cenas `Selecionar contexto` e `Opção de vocabulário` do MoLIC, reunindo barra de pesquisa, botão de pareamento por QR Code (`Comunique-se à distância`), sugestão automática por geolocalização (`Você parece estar em um restaurante...`), acesso rápido a `Rotinas salvas`, lista de `Contextos` (`Hospital`, `Restaurante`, `Transporte`, `Social`) e barra inferior (`Início`, `Prancha`, `Offline`, `Ajustes`).
 * **Tela 05 — Leitura de Código (`Escaneie o QR Code`):** Corresponde ao fluxo de pareamento do **HTA 03**, exibindo área centralizada da câmara com orientação objetiva (`Mantenha o QR Code dentro da área de leitura`).
 
+---
+
 ## 2. Comparação e Validação de Versões Alternativas (Versão A vs. Versão B) ⚖️
 
 <div align="justify">
@@ -71,3 +75,13 @@ Para validar a melhor organização visual e de navegação, a equipe prototipou
 3. **Tela Principal — Home CAA (`Versão A` vs. `Versão B`):**
 * Na **Versão B**, os contextos (`Restaurante`, `Hospital`, `Transporte`, `Social`) estão organizados em grade 2x2 ao lado de dois cartões menores (`Vocabulário Geral` e `Rotinas Salvas`), aumentando a densidade de elementos próximos na metade inferior do ecrã.
 * A **Versão A** (adotada como solução final) organiza `Rotinas salvas` e os `Contextos` em cartões horizontais largos de largura total, proporcionando **alvos de toque maiores** (essencial para utilizadores com dificuldades motoras), leitura vertical previsível e melhor ergonomia para uso com uma só mão.
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+Os sketches materializam, em baixa fidelidade, parte dos fluxos definidos nos HTAs e nos diagramas MoLIC. O documento reúne cinco telas de onboarding e cinco telas relacionadas a acesso, cadastro, escolha de perfil, Home CAA e leitura do QR Code, além de comparar duas alternativas de organização. A equipe registra a escolha da Versão A por favorecer botões e cartões maiores, uma navegação vertical guiada e telas dedicadas para acesso e cadastro. Essa decisão está fundamentada na análise apresentada no próprio documento; os sketches, por serem protótipos de baixa fidelidade, não equivalem a uma comprovação empírica de usabilidade.
+
+</div>

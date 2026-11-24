@@ -6,6 +6,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 
 </div>
 
+---
+
 ## 1. Visão Geral da Matriz 📝
 
 <img width="1600" height="718" alt="image" src="https://github.com/user-attachments/assets/752953e0-cd75-4630-bfa6-c1a67728ede7" />
@@ -23,6 +25,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 | **C9.** Os dados tratados são: mensagens selecionadas, respostas dos interlocutores, confirmações de entendimento e preferências de contexto. | **S9.** O app será usado em situações com pressa ou estresse (atendimento no hospital, fila), então precisa ser rápido. | **D9.** Quais cuidados de privacidade e segurança são necessários, principalmente em contextos de saúde? |
 | — | — | **D10.** Que limitações dos dispositivos (tela, áudio, acessibilidade motora) podem afetar o uso? |
 | — | — | **D11.** Como medir na prática “maior compreensão” e “menos falhas”? |
+
+---
 
 ## 2. Detalhamento e Justificativa dos Pontos 📌
 
@@ -64,6 +68,8 @@ Após a realização do briefing com o representante do cliente, a equipe organi
 - **D10 (Restrições de hardware e acessibilidade):** Permite mapear que limitações dos dispositivos (tamanho de tela, volume de áudio, acessibilidade motora) podem afetar o uso.
 - **D11 (Métricas de sucesso da comunicação):** Necessário para definir como medir na prática os indicadores de “maior compreensão” e “menos falhas”.
 
+---
+
 ## 3. Direcionamento para a Pesquisa com Usuários 🧷
 
 <div align="justify">
@@ -76,3 +82,13 @@ As **Suposições** e **Dúvidas** levantadas nesta matriz foram agrupadas em qu
 2. **Dinâmica da Interação Presencial (`S1`, `S2`, `S5`, `S6`, `S9`, `D6`):** Compreender como ocorre a abordagem com interlocutores leigos em situações cotidianas e de pressa, verificando se a interação acontece em um único aparelho compartilhado ou em dois dispositivos e como o áudio e os pictogramas são recebidos.
 3. **Conteúdo, Contextos e Reciprocidade (`S3`, `S4`, `D7`, `D8`):** Mapear as mensagens essenciais em restaurantes, hospitais, escolas e transportes, além de validar se respostas rápidas bastam ou se o interlocutor precisa de texto livre.
 4. **Acesso, Privacidade e Funcionamento Técnico (`S7`, `D1`, `D2`, `D9`, `D11`):** Avaliar a necessidade de cadastro/login, a importância do uso sem internet e os cuidados de privacidade e segurança em contextos de saúde, bem como formas de medir maior compreensão e redução de falhas.
+
+---
+
+## Conclusão
+
+<div align="justify">
+
+A Matriz CSD organizou o que já estava estabelecido no briefing, o que ainda precisava ser tratado como hipótese e quais perguntas deveriam orientar a investigação com usuários. O quadro também ajudou a delimitar a proposta inicial do MVP e a explicitar pontos que exigiam verificação, como o funcionamento offline, a dinâmica de uso em um ou dois dispositivos, o vocabulário por contexto, a acessibilidade e a privacidade. Assim, a matriz funcionou como instrumento de organização e direcionamento da pesquisa, sem transformar suposições em fatos confirmados.
+
+</div>
